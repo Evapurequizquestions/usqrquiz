@@ -1,0 +1,4002 @@
+[
+  {
+    "question": "What is the smallest prime number?",
+    "answer": "2"
+  },
+  {
+    "question": "How many kidneys does an average human have?",
+    "answer": "2"
+  },
+  {
+    "question": "In what city was the Declaration of Independence signed?",
+    "answer": "Philadelphia"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "answer": "3"
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "answer": "3"
+  },
+  {
+    "question": "How many Lord of The Rings films are there?",
+    "answer": "3"
+  },
+  {
+    "question": "How many stripes does Adidas have in its logo?",
+    "answer": "3"
+  },
+  {
+    "question": "What is the value of Pi to two decimal places?",
+    "answer": "3.14"
+  },
+  {
+    "question": "How many chambers does the human heart have?",
+    "answer": "4"
+  },
+  {
+    "question": "How many syllables are in the word “Mississippi?”",
+    "answer": "4"
+  },
+  {
+    "question": "How many wisdom teeth does the average adult have?",
+    "answer": "4"
+  },
+  {
+    "question": "How many members did the Beatles have?",
+    "answer": "4"
+  },
+  {
+    "question": "What explorer is America named after?",
+    "answer": "Amerigo Vespucci"
+  },
+  {
+    "question": "How many strings does a standard violin have?",
+    "answer": "4"
+  },
+  {
+    "question": "How many copies a year do you get of a quarterly magazine?",
+    "answer": "4"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "answer": "6"
+  },
+  {
+    "question": "How many pockets does a snooker table have?",
+    "answer": "6"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answer": "7"
+  },
+  {
+    "question": "How many dwarves are there in Snow White?",
+    "answer": "7"
+  },
+  {
+    "question": "How many colors are there in a rainbow?",
+    "answer": "7"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "answer": "8"
+  },
+  {
+    "question": "How many sides does an octagon have?",
+    "answer": "8"
+  },
+  {
+    "question": "How many reindeer does Santa have?",
+    "answer": "8"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "answer": "8"
+  },
+  {
+    "question": "How many large islands make up Hawaii?",
+    "answer": "8"
+  },
+  {
+    "question": "How many legs does a lobster have?",
+    "answer": "8"
+  },
+  {
+    "question": "How many lives are cats said to have?",
+    "answer": "9"
+  },
+  {
+    "question": "How many justices serve on the United States Supreme Court?",
+    "answer": "9"
+  },
+  {
+    "question": "A bank account earns 5% annual interest. If you deposit £200, how much interest will you earn in one year?",
+    "answer": "10"
+  },
+  {
+    "question": "What is the next prime number after 7?",
+    "answer": "11"
+  },
+  {
+    "question": "How many time zones does Russia have?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "answer": "12"
+  },
+  {
+    "question": "How many inches are in a foot?",
+    "answer": "12"
+  },
+  {
+    "question": "How many months are there in one year?",
+    "answer": "12"
+  },
+  {
+    "question": "What number is a baker's dozen?",
+    "answer": "13"
+  },
+  {
+    "question": "What year did women finally get the right to vote?",
+    "answer": "1920, with the passage of the 19th amendment"
+  },
+  {
+    "question": "Who’s credited with sewing the first American flag?",
+    "answer": "Betsy Ross"
+  },
+  {
+    "question": "How old was Tiger Woods when he first won the Masters?",
+    "answer": "21"
+  },
+  {
+    "question": "How many ribs are in a human body?",
+    "answer": "24"
+  },
+  {
+    "question": "If you divide 100 by 4, what do you get?",
+    "answer": "25"
+  },
+  {
+    "question": "How many letters are there in the English alphabet?",
+    "answer": "26"
+  },
+  {
+    "question": "How many countries are in the European Union - 26, 27 or 28?",
+    "answer": "27"
+  },
+  {
+    "question": "How many days are there in February during a leap year?",
+    "answer": "29"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "answer": "30"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "answer": "32"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+    "answer": "32"
+  },
+  {
+    "question": "A shop offers a 20% discount on a £50 item. How much do you pay?",
+    "answer": "40"
+  },
+  {
+    "question": "How many hours are there in two days?",
+    "answer": "48"
+  },
+  {
+    "question": "How many cards are in a standard deck of playing cards?",
+    "answer": "52"
+  },
+  {
+    "question": "What are the three branches of U.S. government?",
+    "answer": "The Legislative, Executive and Judicial"
+  },
+  {
+    "question": "How many keys are on a modern, standard-sized piano?",
+    "answer": "88"
+  },
+  {
+    "question": "What event officially brought the U.S. into World War II?",
+    "answer": "The December 7, 1941, attack on Pearl Harbor"
+  },
+  {
+    "question": "If someone requests your John Hancock, what are they referring to?",
+    "answer": "Your signature"
+  },
+  {
+    "question": "How many elements are there in the periodic table - 117, 118 or 119?",
+    "answer": "118"
+  },
+  {
+    "question": "How many bones are in an adult human body?",
+    "answer": "206"
+  },
+  {
+    "question": "What is the maximum score possible in ten-pin bowling?",
+    "answer": "300"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "answer": "366"
+  },
+  {
+    "question": "How many years are there in a millennium?",
+    "answer": "1000"
+  },
+  {
+    "question": "What song contains the lyrics “for amber waves of grain”?",
+    "answer": "“America the Beautiful”"
+  },
+  {
+    "question": "In which year did the United States declare its independence?",
+    "answer": "1776"
+  },
+  {
+    "question": "In what year were women allowed to compete in the modern Olympic Games?",
+    "answer": "1900"
+  },
+  {
+    "question": "What is the year of the first recorded flight?",
+    "answer": "1903"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "answer": "1912"
+  },
+  {
+    "question": "What U.S. city is known as the “wedding capital of the world”?",
+    "answer": "Las Vegas"
+  },
+  {
+    "question": "In what year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "question": "Which Civil Rights figure led the famous Montgomery Bus Boycott in 1955?",
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "question": "What year did humans first land on the Moon?",
+    "answer": "1969"
+  },
+  {
+    "question": "In which year was the first email sent?",
+    "answer": "1971"
+  },
+  {
+    "question": "Which type of alcohol is distinctive to the United States?",
+    "answer": "Kentucky bourbon"
+  },
+  {
+    "question": "In what year was the Chernobyl disaster?",
+    "answer": "1986"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989"
+  },
+  {
+    "question": "In which year did US sitcom Friends first air in the UK - 1993, 1994 or 1995?",
+    "answer": "1995"
+  },
+  {
+    "question": "True or false? Apple pie was invented in the good old USA.",
+    "answer": "False. It actually originated in England, with the first recipe written in 1381."
+  },
+  {
+    "question": "When was the movie the Titanic released?",
+    "answer": "1997"
+  },
+  {
+    "question": "What was the only state to ever have been ruled by a queen?",
+    "answer": "Hawaii"
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "answer": "2007"
+  },
+  {
+    "question": "What year did Netflix, previously a DVD rental business, introduce streaming services?",
+    "answer": "2007"
+  },
+  {
+    "question": "Who was the first American astronaut in space?",
+    "answer": "Alan Shepard"
+  },
+  {
+    "question": "Which was the first established university in the U.S.?",
+    "answer": "Harvard"
+  },
+  {
+    "question": "How many weeks are there in a century?",
+    "answer": "5200"
+  },
+  {
+    "question": "What is the best-selling album ever?",
+    "answer": "\"Thriller\" by Michael Jackson"
+  },
+  {
+    "question": "What does the U.S.’s motto “E pluribus unum” mean?",
+    "answer": "Out of many, one"
+  },
+  {
+    "question": "What is James Bond's code name?",
+    "answer": "007"
+  },
+  {
+    "question": "To a single decimal point, how many kilometres are in a mile?",
+    "answer": "1.6km"
+  },
+  {
+    "question": "What’s the diameter of a basketball hoop in inches?",
+    "answer": "18 inches"
+  },
+  {
+    "question": "To be classed as Mutton, how old must the sheep be - 2, 4 or 5 years?",
+    "answer": "2 years"
+  },
+  {
+    "question": "How long is the gestation period of an elephant?",
+    "answer": "22 months"
+  },
+  {
+    "question": "What is the perimeter of a square with sides of length 6 cm?",
+    "answer": "24cm"
+  },
+  {
+    "question": "How long is a marathon?",
+    "answer": "26.2 miles"
+  },
+  {
+    "question": "To the nearest 10, how many states does the Mississippi River run through?",
+    "answer": "30 (31)"
+  },
+  {
+    "question": "How many days does it take for the Earth to orbit the sun?",
+    "answer": "365 days"
+  },
+  {
+    "question": "How long is an Olympic swimming pool (in meters)?",
+    "answer": "50 meters"
+  },
+  {
+    "question": "What was the original capital of the U.S.?",
+    "answer": "New York City"
+  },
+  {
+    "question": "If you subtracted a decade from a millennium, how many years would be left?",
+    "answer": "990 (1000-10)"
+  },
+  {
+    "question": "What do you call a group of jellyfish?",
+    "answer": "A bloom"
+  },
+  {
+    "question": "What type of fish is Nemo?",
+    "answer": "A Clownfish"
+  },
+  {
+    "question": "What do we call a group of stars forming a pattern in the sky?",
+    "answer": "A constellation"
+  },
+  {
+    "question": "What is the largest national park in the U.S.?",
+    "answer": "The Wrangell-St. Elias National Park & Preserve in Alaska"
+  },
+  {
+    "question": "What type of animal is a greyhound?",
+    "answer": "A dog"
+  },
+  {
+    "question": "What do you call a story that teaches a lesson, often with animals as characters?",
+    "answer": "A fable"
+  },
+  {
+    "question": "What is arachnophobia?",
+    "answer": "A fear of spiders"
+  },
+  {
+    "question": "What in the animal kingdom is a doe?",
+    "answer": "A female deer"
+  },
+  {
+    "question": "What is taller, an elephant or a giraffe?",
+    "answer": "A giraffe"
+  },
+  {
+    "question": "What is a baby goat called?",
+    "answer": "A kid"
+  },
+  {
+    "question": "What design is on the flag of Canada?",
+    "answer": "A Maple leaf"
+  },
+  {
+    "question": "Is a Tasmanian Devil a rodent, a marsupial or a reptile?",
+    "answer": "A marsupial"
+  },
+  {
+    "question": "What’s the name for a group of crows?",
+    "answer": "A murder of crows"
+  },
+  {
+    "question": "What identity document is required to travel to different countries around the world?",
+    "answer": "A passport"
+  },
+  {
+    "question": "What is a female swan called?",
+    "answer": "A pen"
+  },
+  {
+    "question": "A portrait is a picture of what?",
+    "answer": "A person"
+  },
+  {
+    "question": "What is a group of lions called?",
+    "answer": "A pride"
+  },
+  {
+    "question": "What is a group of fish called?",
+    "answer": "A school"
+  },
+  {
+    "question": "What was the first animal to ever be cloned?",
+    "answer": "A Sheep"
+  },
+  {
+    "question": "What type of celestial object is the Sun?",
+    "answer": "A Star"
+  },
+  {
+    "question": "What did Humpty Dumpty fall off?",
+    "answer": "A Wall"
+  },
+  {
+    "question": "What sort of creature is a dingo?",
+    "answer": "A wild dog"
+  },
+  {
+    "question": "What's the capital of the the United Arab Emirates?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "question": "What Australian band is known for “Back in Black” and “Highway to Hell”?",
+    "answer": "AC/DC"
+  },
+  {
+    "question": "In which American city did jazz music originate?",
+    "answer": "New Orleans"
+  },
+  {
+    "question": "Which British singer is known for hits like \"Someone Like You\" and \"Rolling in the Deep\"?",
+    "answer": "Adele"
+  },
+  {
+    "question": "Which continent covers all four hemispheres of the earth?",
+    "answer": "Africa"
+  },
+  {
+    "question": "The island of Zanzibar lies off the east coast of which continent?",
+    "answer": "Africa"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "answer": "Ag"
+  },
+  {
+    "question": "Which Disney movie has a genie trapped in a lamp?",
+    "answer": "Aladin"
+  },
+  {
+    "question": "What is the biggest state in America?",
+    "answer": "Alaska"
+  },
+  {
+    "question": "Which US state has the longest coastline?",
+    "answer": "Alaska"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the name of the famous prison in the San Francisco Bay?",
+    "answer": "Alcatraz"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who is credited with inventing the telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the name of Batman's faithful butler?",
+    "answer": "Alfred Pennyworth"
+  },
+  {
+    "question": "What A word is a form of mathematics in which letters are used in place of numbers?",
+    "answer": "Algebra"
+  },
+  {
+    "question": "Who sang the 2001 hit ‘Fallin’?",
+    "answer": "Alicia Keys"
+  },
+  {
+    "question": "What is the nickname of New Zealand’s national rugby team?",
+    "answer": "All Blacks"
+  },
+  {
+    "question": "What is God called by the Islamic or Muslim faith?",
+    "answer": "Allah"
+  },
+  {
+    "question": "What has the shorter snout: an alligator or a crocodile?",
+    "answer": "Alligator"
+  },
+  {
+    "question": "What was the middle name of Wolfgang Mozart?",
+    "answer": "Amadeus"
+  },
+  {
+    "question": "What company is also the name of one of the longest rivers in the world?",
+    "answer": "Amazon"
+  },
+  {
+    "question": "What do you call someone who can write with both hands?",
+    "answer": "Ambidextrous"
+  },
+  {
+    "question": "What is the term for an animal that lives part of its life on land and part in water?",
+    "answer": "Amphibian"
+  },
+  {
+    "question": "Which state is Juan Ponce de León credited with discovering?",
+    "answer": "Florida"
+  },
+  {
+    "question": "What type of snake is said to have killed Cleopatra?",
+    "answer": "An Asp"
+  },
+  {
+    "question": "What did the Titanic crash into that caused it to sink?",
+    "answer": "An iceberg"
+  },
+  {
+    "question": "What kind of creature is Shrek?",
+    "answer": "An ogre"
+  },
+  {
+    "question": "Where were the Olympic Games invented?",
+    "answer": "Ancient Greece"
+  },
+  {
+    "question": "In the Toy Story films, what is the name of the boy who the toys belong to?",
+    "answer": "Andy"
+  },
+  {
+    "question": "What is the capital city of Turkey?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What A word is the name given to a drug that counteracts a poison?",
+    "answer": "Antidote"
+  },
+  {
+    "question": "Who composed the Four Seasons?",
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "question": "What is the name of the Greek goddess of love?",
+    "answer": "Aphrodite"
+  },
+  {
+    "question": "In which film did Tom Hanks say “Houston, we have a problem”?",
+    "answer": "Apollo 13"
+  },
+  {
+    "question": "What unusual name did Chris Martin and Gweneth Paltrow give to their first born daughter?",
+    "answer": "Apple"
+  },
+  {
+    "question": "Which company created the iPhone?",
+    "answer": "Apple"
+  },
+  {
+    "question": "During the Gilded Age, who was the richest American and the country’s first billionaire?",
+    "answer": "John D. Rockefeller, the founder of Standard Oil"
+  },
+  {
+    "question": "Why was the U.S. Secret Service officially formed in July 1865?",
+    "answer": "To stamp out rampant counterfeiting after the Civil War"
+  },
+  {
+    "question": "Which constitutional amendment abolished slavery in the U.S.?",
+    "answer": "The 13th Amendment"
+  },
+  {
+    "question": "Which country gifted the U.S. the Statue of Liberty?",
+    "answer": "France"
+  },
+  {
+    "question": "What is the name of the Greek god of war?",
+    "answer": "Ares"
+  },
+  {
+    "question": "Buenos Aires is the capital city of which country?",
+    "answer": "Argentina"
+  },
+  {
+    "question": "In which US state would you find the Grand Canyon?",
+    "answer": "Arizona"
+  },
+  {
+    "question": "Which actor starred as the main character in \"The Terminator\"?",
+    "answer": "Arnold Schwarzenegger"
+  },
+  {
+    "question": "When did Washington, DC become the U.S. capital?",
+    "answer": "1790"
+  },
+  {
+    "question": "On which continent is India located?",
+    "answer": "Asia"
+  },
+  {
+    "question": "What is the name of the lion in “The Lion, The Witch and the Wardrobe”?",
+    "answer": "Aslan"
+  },
+  {
+    "question": "Is an epilogue at the beginning or at the end of a book?",
+    "answer": "At the end"
+  },
+  {
+    "question": "In which European city would you find the Acropolis?",
+    "answer": "Athens"
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "answer": "Athens"
+  },
+  {
+    "question": "How many U.S. senators does each state have?",
+    "answer": "Two"
+  },
+  {
+    "question": "Which ocean is the second largest?",
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "question": "Can you name the Earth’s five oceans?",
+    "answer": "Atlantic, Pacific, Indian, Arctic and Southern"
+  },
+  {
+    "question": "What is the term for the smallest particle that makes up all matter?",
+    "answer": "Atom"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the largest city in New Zealand?",
+    "answer": "Auckland"
+  },
+  {
+    "question": "Where is the US Masters golf tournament held?",
+    "answer": "Augusta National Golf Club"
+  },
+  {
+    "question": "What is the only continent without an active volcano?",
+    "answer": "Australasia"
+  },
+  {
+    "question": "In what country might you find a platypus and a wombat?",
+    "answer": "Australia"
+  },
+  {
+    "question": "The Great Barrier Reef is located in which country?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What is the highest-grossing movie of all time?",
+    "answer": "Avatar"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "question": "What was the first major single released by Justin Bieber?",
+    "answer": "Baby"
+  },
+  {
+    "question": "Which boy band became a worldwide sensation with “I Want It That Way” in 1999?",
+    "answer": "Backstreet Boys"
+  },
+  {
+    "question": "In which sport would you use a shuttlecock?",
+    "answer": "Badminton"
+  },
+  {
+    "question": "What is the capital city of Colombia?",
+    "answer": "Bagota"
+  },
+  {
+    "question": "Tourists can swim in the sea with pigs in which country?",
+    "answer": "Bahamas"
+  },
+  {
+    "question": "What is the currency of Thailand?",
+    "answer": "Baht"
+  },
+  {
+    "question": "Which bird is known as the national symbol of the United States?",
+    "answer": "Bald eagle"
+  },
+  {
+    "question": "What plant is the main source of food for pandas?",
+    "answer": "Bamboo"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "answer": "Bangkok"
+  },
+  {
+    "question": "Dhaka is the capital of which country?",
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "On which island nation was Rihanna born?",
+    "answer": "Barbados"
+  },
+  {
+    "question": "What is the name of the instrument used to measure atmospheric pressure?",
+    "answer": "Barometer"
+  },
+  {
+    "question": "The Chicago Cubs and Boston Red Sox play which sport?",
+    "answer": "Baseball"
+  },
+  {
+    "question": "Which dictator spent his last days in power playing Candy Crush?",
+    "answer": "Bashar al-Assad."
+  },
+  {
+    "question": "The Los Angeles Lakers and New York Knicks play which sport?",
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which is the only mammal capable of true flight?",
+    "answer": "Bat"
+  },
+  {
+    "question": "What does BMW stand for (in English)?",
+    "answer": "Bavarian Motor Works"
+  },
+  {
+    "question": "In 'The Jungle Book', what kind of animal is Baloo?",
+    "answer": "Bear"
+  },
+  {
+    "question": "Who wrote “The Star Spangled Banner”?",
+    "answer": "Francis Scott Key"
+  },
+  {
+    "question": "What kind of animal is known for building dams?",
+    "answer": "Beaver"
+  },
+  {
+    "question": "Oktoberfest in Germany is celebrated with what drink?",
+    "answer": "Beer"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "question": "What’s the capital of Northern Ireland?",
+    "answer": "Belfast"
+  },
+  {
+    "question": "The United States purchased Alaska from which country?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What’s the name of the princess in Beauty and the Beast?",
+    "answer": "Belle"
+  },
+  {
+    "question": "Which state was home to the Gold Rush of 1849?",
+    "answer": "California"
+  },
+  {
+    "question": "What is the national mammal of the U.S.?",
+    "answer": "The American bison"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "answer": "Bern"
+  },
+  {
+    "question": "Who sang the 2008 hit 'If I Were a Boy'?",
+    "answer": "Beyonce"
+  },
+  {
+    "question": "What type of race is the Tour de France?",
+    "answer": "Bicycle race"
+  },
+  {
+    "question": "Who is Miley Cyrus's famous father?",
+    "answer": "Bill Ray Cyrus"
+  },
+  {
+    "question": "Which state is known as the “Granite State”?",
+    "answer": "New Hampshire"
+  },
+  {
+    "question": "In the game of chess, what piece can only move diagonally?",
+    "answer": "Bishop"
+  },
+  {
+    "question": "What color is a giraffe’s tongue?",
+    "answer": "Black or Dark Purple"
+  },
+  {
+    "question": "What are the first 10 amendments to the Constitution called?",
+    "answer": "The Bill of Rights"
+  },
+  {
+    "question": "In which heavy metal band was Ozzy Osbourne the lead singer?",
+    "answer": "Black Sabbath"
+  },
+  {
+    "question": "Which five colours make up the Olympic rings?",
+    "answer": "Black, green, blue, yellow and red"
+  },
+  {
+    "question": "What color are Smurfs?",
+    "answer": "Blue"
+  },
+  {
+    "question": "What colour are sapphires?",
+    "answer": "Blue"
+  },
+  {
+    "question": "What color is Cinderella’s dress at the ball?",
+    "answer": "Blue"
+  },
+  {
+    "question": "Which two primary colors can be mixed to make green?",
+    "answer": "Blue and yellow"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What are the three primary colours?",
+    "answer": "Blue, Red and Yellow"
+  },
+  {
+    "question": "Which theme park in the U.S. gets the most visitors?",
+    "answer": "Walt Disney World in Orlando, FL"
+  },
+  {
+    "question": "In which sport was Muhammad Ali a world champion?",
+    "answer": "Boxing"
+  },
+  {
+    "question": "Who was the oldest founding father?",
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "question": "What city is known as the Windy City?",
+    "answer": "Chicago"
+  },
+  {
+    "question": "Who is the author of \"Dracula\"?",
+    "answer": "Bram Stoker"
+  },
+  {
+    "question": "Which President won the Nobel Peace Prize in 2009?",
+    "answer": "Barack Obama"
+  },
+  {
+    "question": "Which country produces the most coffee in the world?",
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the largest country in South America?",
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "answer": "Brazil (5 times)"
+  },
+  {
+    "question": "Better call Saul is a spin-off of which popular TV series?",
+    "answer": "Breaking Bad"
+  },
+  {
+    "question": "What’s the only vegetable that is also classified as a flower?",
+    "answer": "Broccoli"
+  },
+  {
+    "question": "Who is the American artist known for hits like \"Uptown Funk\" and \"24K Magic\"?",
+    "answer": "Bruno Mars"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "answer": "Brussels"
+  },
+  {
+    "question": "What is the official residence of the British monarch in London?",
+    "answer": "Buckingham Palace"
+  },
+  {
+    "question": "Which state has produced the greatest number of U.S. presidents?",
+    "answer": "Virginia"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "Sofia is the capital of which country?",
+    "answer": "Bulgaria"
+  },
+  {
+    "question": "What is a male elephant called?",
+    "answer": "Bull"
+  },
+  {
+    "question": "What is the very center of a target called in archery or darts?",
+    "answer": "Bullseye"
+  },
+  {
+    "question": "What do caterpillars turn into?",
+    "answer": "Butterflies"
+  },
+  {
+    "question": "Who was the second man to walk on the moon?",
+    "answer": "Buzz Aldrin"
+  },
+  {
+    "question": "What movie character says, “To infinity ... and beyond!”",
+    "answer": "Buzz Lightyear"
+  },
+  {
+    "question": "Which British author wrote The Chronicles of Narnia?",
+    "answer": "C.S. Lewis"
+  },
+  {
+    "question": "What is the person who carries a golfer’s bag of clubs called?",
+    "answer": "Caddy"
+  },
+  {
+    "question": "In which U.S. state can the world’s tallest trees be found?",
+    "answer": "California"
+  },
+  {
+    "question": "In which American state is Death Valley?",
+    "answer": "California"
+  },
+  {
+    "question": "Which popular video game franchise has released games with the subtitles World at War and Black Ops?",
+    "answer": "Call of Duty"
+  },
+  {
+    "question": "In what city and state is Harvard University located?",
+    "answer": "Cambridge, Massachusetts"
+  },
+  {
+    "question": "Which animal is known for having a hump on its back and living in the desert?",
+    "answer": "Camel"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "answer": "Canada"
+  },
+  {
+    "question": "Alberta is a province of which country?",
+    "answer": "Canada"
+  },
+  {
+    "question": "Which two countries share the longest international border?",
+    "answer": "Canada and the United States"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "question": "What is the southernmost point of South America called?",
+    "answer": "Cape Horn"
+  },
+  {
+    "question": "Who is the villain in “Peter Pan”?",
+    "answer": "Captain Hook"
+  },
+  {
+    "question": "Is the letter 'C' the chemical symbol for copper, cobalt or carbon?",
+    "answer": "Carbon"
+  },
+  {
+    "question": "Which gas do humans exhale during respiration?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "Which four presidents are on Mount Rushmore?",
+    "answer": "George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln"
+  },
+  {
+    "question": "Which president died in office after serving only 32 days?",
+    "answer": "William Henry Harrison"
+  },
+  {
+    "question": "What do you call an animal that eats only meat?",
+    "answer": "Carnivore"
+  },
+  {
+    "question": "What magical item does Aladin use to fly on?",
+    "answer": "Carpet"
+  },
+  {
+    "question": "Which vegetable is said to help you see in the dark?",
+    "answer": "Carrots"
+  },
+  {
+    "question": "What was the birth name of boxing legend Muhammad Ali?",
+    "answer": "Cassius Clay"
+  },
+  {
+    "question": "How many sitting presidents have been assassinated?",
+    "answer": "Four"
+  },
+  {
+    "question": "Siamese, Maine Coon, tabby, ragdoll, calico and shorthair are all types of what?",
+    "answer": "Cats"
+  },
+  {
+    "question": "Can you name a four-letter country in Africa?",
+    "answer": "Chad, Mali or Togo"
+  },
+  {
+    "question": "What five-letter word can follow easy, electric and wheel?",
+    "answer": "Chair"
+  },
+  {
+    "question": "Which reptile is known for changing its color?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "There is a statue of what animal on Wall Street?",
+    "answer": "Charging Bull"
+  },
+  {
+    "question": "Who developed the theory of evolution by natural selection?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "Who was the shortest commander in chief?",
+    "answer": "James Madison, who stood just 5 feet 4 inches tall"
+  },
+  {
+    "question": "The first U.S. president to be impeached was ______________?",
+    "answer": "Andrew Johnson"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Which big cat cannot roar?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "answer": "Cherry Blossom (Sakura)"
+  },
+  {
+    "question": "Which U.S. state has the smallest population?",
+    "answer": "Wyoming"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "answer": "Chickpeas"
+  },
+  {
+    "question": "What is the main ingredient in Falafel?",
+    "answer": "Chickpeas (or Fava Beans)"
+  },
+  {
+    "question": "What does the acronym CEO stand for?",
+    "answer": "Chief Executive Officer"
+  },
+  {
+    "question": "What is the smallest breed of dog?",
+    "answer": "Chihuahua"
+  },
+  {
+    "question": "Which country hosted the 2008 Summer Olympics?",
+    "answer": "China"
+  },
+  {
+    "question": "Which country produces the most tea?",
+    "answer": "China"
+  },
+  {
+    "question": "Which country is known as the Land of the Dragon?",
+    "answer": "China"
+  },
+  {
+    "question": "Which of the following countries do not span two continents: Russia, China, Turkey or Azerbaijan?",
+    "answer": "China"
+  },
+  {
+    "question": "In which country is the Disney film Mulan set?",
+    "answer": "China"
+  },
+  {
+    "question": "In what language does \"ni hao\" mean \"hello\"?",
+    "answer": "Chinese (Mandarin)"
+  },
+  {
+    "question": "Who is the lead singer and primary songwriter of the band Coldplay?",
+    "answer": "Chris Martin"
+  },
+  {
+    "question": "What did the Grinch steal?",
+    "answer": "Christmas"
+  },
+  {
+    "question": "Which Italian explorer is credited with discovering the Americas in 1492?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "Who directed the film Inception?",
+    "answer": "Christopher Nolan"
+  },
+  {
+    "question": "What alcoholic drink is made from fermented apples?",
+    "answer": "Cider"
+  },
+  {
+    "question": "Which fairytale princess wears glass slippers?",
+    "answer": "Cinderella"
+  },
+  {
+    "question": "Which spice is commonly added to rice pudding?",
+    "answer": "Cinnamon"
+  },
+  {
+    "question": "What species of fish is Nemo?",
+    "answer": "Clown Fish"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "answer": "CO₂"
+  },
+  {
+    "question": "Which soft drink once contained cocaine as one of its original ingredients?",
+    "answer": "Coca-Cola"
+  },
+  {
+    "question": "What is the main ingredient in chocolate?",
+    "answer": "Cocoa"
+  },
+  {
+    "question": "When you stand at the Four Corners Monument, which four states can you be in at the same time?",
+    "answer": "Arizona, Utah, Colorado and New Mexico"
+  },
+  {
+    "question": "What’s the highest mountain in the U.S.?",
+    "answer": "Denali, also known as Mt. McKinley, in Alaska, which stands at 20,310 feet."
+  },
+  {
+    "question": "What word is used to describe a group of ants?",
+    "answer": "Colony"
+  },
+  {
+    "question": "What’s the oldest city in America?",
+    "answer": "St. Augustine, FL"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "Which two sets of states contain the names North and South?",
+    "answer": "North and South Carolina and North and South Dakota"
+  },
+  {
+    "question": "What is the largest lake in the United States?",
+    "answer": "Lake Superior"
+  },
+  {
+    "question": "Which country’s name is Spanish for \"rich coast\"?",
+    "answer": "Costa Rica"
+  },
+  {
+    "question": "Who holds the record for the most goals scored in international football?",
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "Zagreb is the capital city of which country?",
+    "answer": "Croatia"
+  },
+  {
+    "question": "What is the name of the female villain in 101 Dalmations?",
+    "answer": "Cruella De Vil"
+  },
+  {
+    "question": "What’s the shortcut for the paste function on most computers?",
+    "answer": "Ctrl+V"
+  },
+  {
+    "question": "The average pickle comes from which vegetable?",
+    "answer": "Cucumber"
+  },
+  {
+    "question": "What is the sport played on ice with brooms and stones?",
+    "answer": "Curling"
+  },
+  {
+    "question": "What is the name of a baby swan?",
+    "answer": "Cygnet"
+  },
+  {
+    "question": "Which is the only U.S. state that borders only one other state?",
+    "answer": "Maine"
+  },
+  {
+    "question": "Choreography is the art of arranging what?",
+    "answer": "Dance"
+  },
+  {
+    "question": "What’s the longest river in the U.S.?",
+    "answer": "The Missouri River"
+  },
+  {
+    "question": "Which state has a bigger population: California or Texas?",
+    "answer": "California"
+  },
+  {
+    "question": "What is the smallest state in the U.S.?",
+    "answer": "Rhode Island"
+  },
+  {
+    "question": "What occurred on July 20, 1969, and was watched by up to 150 million Americans?",
+    "answer": "The moon landing"
+  },
+  {
+    "question": "Who was the first woman to win the popular vote in a U.S. presidential election?",
+    "answer": "Hillary Rodham Clinton, in 2016"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "Before embarking on a solo career, Beyoncé was part of what R&B group?",
+    "answer": "Destiny's Child"
+  },
+  {
+    "question": "What term is used in tennis for 40-40?",
+    "answer": "Deuce"
+  },
+  {
+    "question": "Insulin is commonly used to treat which condition?",
+    "answer": "Diabetes"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the name of the pet dinosaur on the TV cartoon “The Flintstones”?",
+    "answer": "Dino"
+  },
+  {
+    "question": "What does \"DC\" stand for in Washington D.C.?",
+    "answer": "District of Columbia"
+  },
+  {
+    "question": "Which sport involves tucks and pikes?",
+    "answer": "Diving"
+  },
+  {
+    "question": "Which of the following is NOT one of Santa's reindeer: Comet, Blitzen, Cupid, Dodger?",
+    "answer": "Dodger"
+  },
+  {
+    "question": "In the Simpsons, what’s Homer’s catchphrase?",
+    "answer": "D'oh!"
+  },
+  {
+    "question": "What is the capital of Qatar?",
+    "answer": "Doha"
+  },
+  {
+    "question": "Whitney Houston's hit \"I will always love you,\" was originally written and performed by which musician?",
+    "answer": "Dolly Parton"
+  },
+  {
+    "question": "What type of animal is Shrek's best friend?",
+    "answer": "Donkey"
+  },
+  {
+    "question": "What 1980 Olympic event is referred to as the “Miracle on Ice”?",
+    "answer": "The gold medal win by the U.S. Men’s Ice Hockey team over the Soviet Union"
+  },
+  {
+    "question": "Which of the seven dwarfs was beardless?",
+    "answer": "Dopey"
+  },
+  {
+    "question": "In what year did the Vietnam War finally end?",
+    "answer": "1975"
+  },
+  {
+    "question": "Who wrote 'The Cat in The Hat'?",
+    "answer": "Dr Seuss"
+  },
+  {
+    "question": "What mythical creature is said to breathe fire and often guards treasure?",
+    "answer": "Dragon"
+  },
+  {
+    "question": "What is the name of the American rapper known for hits like \"Hotline Bling\" and \"God's Plan\"?",
+    "answer": "Drake"
+  },
+  {
+    "question": "Which actress starred in the films E.T. and Charlie’s Angels?",
+    "answer": "Drew Barrymore"
+  },
+  {
+    "question": "Where is the tallest building in the world located?",
+    "answer": "Dubai, where the Burj Khalifa stands at a height of 2,717 feet"
+  },
+  {
+    "question": "What is the wife of a duke called?",
+    "answer": "Duchess"
+  },
+  {
+    "question": "What is the given name of the wrestler known as “The Rock?”",
+    "answer": "Dwayne Douglas Johnson"
+  },
+  {
+    "question": "Which actor voice Maui in the animated Disney movie Moana?",
+    "answer": "Dwayne Johnson (The Rock)"
+  },
+  {
+    "question": "What’s the only planet that supports life (as we know it)?",
+    "answer": "Earth"
+  },
+  {
+    "question": "What are the four elements of nature?",
+    "answer": "Earth, water, air, and fire"
+  },
+  {
+    "question": "What does the Richter scale measure?",
+    "answer": "Earthquake magnitude"
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "answer": "East"
+  },
+  {
+    "question": "Who had a hit with “Shape of You” in 2017?",
+    "answer": "Ed Sheeran"
+  },
+  {
+    "question": "In 2004, which state became the first to legalize same-sex marriage?",
+    "answer": "Massachusetts"
+  },
+  {
+    "question": "Which countries signed a peace treaty brokered by Jimmy Carter at Camp David in 1979?",
+    "answer": "Israel and Egypt"
+  },
+  {
+    "question": "Although it’s been ratified by 38 states, which amendment has still not become a part of the Constitution?",
+    "answer": "The Equal Rights Amendment"
+  },
+  {
+    "question": "What is the main ingredient in baba ganoush?",
+    "answer": "Eggplant (Aubergine)"
+  },
+  {
+    "question": "What is the main ingredient in a quiche?",
+    "answer": "Eggs"
+  },
+  {
+    "question": "Which African country is famous for its pyramids?",
+    "answer": "Egypt"
+  },
+  {
+    "question": "Which was built first: the Eiffel Tower or the Panama Canal?",
+    "answer": "Eiffel Tower"
+  },
+  {
+    "question": "Which fish is known for its electric shock abilities?",
+    "answer": "Electric eel"
+  },
+  {
+    "question": "What does the “E” stand for in the acronym “EMAIL”?",
+    "answer": "Electronic"
+  },
+  {
+    "question": "What is the world’s largest land mammal?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "What type of animal is Dumbo?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which British monarch has the longest reign in history?",
+    "answer": "Elizabeth II"
+  },
+  {
+    "question": "Which billionaire founded SpaceX?",
+    "answer": "Elon Musk"
+  },
+  {
+    "question": "In 2021, what new federal holiday did President Biden sign into law?",
+    "answer": "Juneteenth"
+  },
+  {
+    "question": "Which actress played Hermione Granger in the Harry Potter films?",
+    "answer": "Emma Watson"
+  },
+  {
+    "question": "The New England Patriots have now won the title 6 times, a record they share with which other team?",
+    "answer": "Pittsburgh Steelers"
+  },
+  {
+    "question": "Which language is spoken in Australia?",
+    "answer": "English"
+  },
+  {
+    "question": "Tom Brady holds the record for being the oldest Quarterback to win a Super Bowl but how old was he when he won Super Bowl LIII (53)? a) 39 b) 40 c) 41yrs",
+    "answer": "c) 41yrs"
+  },
+  {
+    "question": "What is the process by which water turns into vapor?",
+    "answer": "Evaporation"
+  },
+  {
+    "question": "What do you call a tree who retains its leaves throughout all four seasons?",
+    "answer": "Evergreen"
+  },
+  {
+    "question": "How often are the Summer Olympics held?",
+    "answer": "Every four years"
+  },
+  {
+    "question": "What name is given to an adult female sheep?",
+    "answer": "Ewe"
+  },
+  {
+    "question": "What is the name of the Patriots home stadium?",
+    "answer": "Gillette Stadium"
+  },
+  {
+    "question": "Bats are blind. True or False",
+    "answer": "False. Bats can see and also use echolocation to navigate in the dark."
+  },
+  {
+    "question": "Blood in your veins is blue until exposed to air. True or False",
+    "answer": "False. Blood is always red; it only appears blue through the skin due to light diffraction."
+  },
+  {
+    "question": "Goldfish have a memory span of only three seconds.True or False",
+    "answer": "FALSE. Goldfish can remember things for months."
+  },
+  {
+    "question": "Lightning never strikes the same place twice. True or False",
+    "answer": "FALSE. Lightning can strike the same place multiple times."
+  },
+  {
+    "question": "Whales are fish. True or False",
+    "answer": "False. Whales are mammals—they breathe air, are warm-blooded, and nurse their young."
+  },
+  {
+    "question": "The Great Wall of China is visible from space. True or False",
+    "answer": "FALSE. While the Great Wall is long, it’s not easily visible from space without aid."
+  },
+  {
+    "question": "What is the name of the longest bone in the human body?",
+    "answer": "Femur"
+  },
+  {
+    "question": "What is the primary ingredient in traditional Japanese miso soup?",
+    "answer": "Fermented soybeans (Miso)"
+  },
+  {
+    "question": "Which revolutionary led the Cuban Revolution in the 1950s?",
+    "answer": "Fidel Castro"
+  },
+  {
+    "question": "Which Cuban leader was code-named The Beard by the C.I.A.?",
+    "answer": "Fidel Castro"
+  },
+  {
+    "question": "How many times has Los Angeles hosted the Summer Olympic Games?",
+    "answer": "Twice"
+  },
+  {
+    "question": "Which US state is nicknamed \"The Sunshine State\"?",
+    "answer": "Florida"
+  },
+  {
+    "question": "Which US state is Washington DC a part of?",
+    "answer": "None, it is under the exclusive control of Congress and not part of any state."
+  },
+  {
+    "question": "Which is the southernmost US state?",
+    "answer": "Florida"
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "answer": "Flour"
+  },
+  {
+    "question": "Dave Grohl is the frontman for which rock band?",
+    "answer": "Foo Fighters"
+  },
+  {
+    "question": "What sport did David Beckham play?",
+    "answer": "Football (Soccer)"
+  },
+  {
+    "question": "What is the most widely played (and watched) sport in the world?",
+    "answer": "Football (Soccer)"
+  },
+  {
+    "question": "How many Grand Slam tournaments are there in tennis?",
+    "answer": "Four (Wimbledon, US Open, French Open, Australian Open)"
+  },
+  {
+    "question": "How many states start with the letter \"I\"?",
+    "answer": "Four: Idaho, Illinois, Indiana and Iowa"
+  },
+  {
+    "question": "Which two styles of dance are mentioned in the NATO phonetic alphabet?",
+    "answer": "Foxtrot and Tango"
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answer": "France"
+  },
+  {
+    "question": "Which country is brie cheese originally from?",
+    "answer": "France"
+  },
+  {
+    "question": "In which country did Joan of Arc lead an army?",
+    "answer": "France"
+  },
+  {
+    "question": "Who is the only U.S. president to serve more than two terms in office?",
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "question": "Which state borders Louisiana to the north?",
+    "answer": "Arkansas"
+  },
+  {
+    "question": "ANAGRAM - US State - NOMINATES",
+    "answer": "MINNESOTA"
+  },
+  {
+    "question": "What do tadpoles turn in to?",
+    "answer": "Frogs"
+  },
+  {
+    "question": "What is the French word for cheese?",
+    "answer": "Fromage"
+  },
+  {
+    "question": "What is it called when the Moon appears fully lit?",
+    "answer": "Full moon"
+  },
+  {
+    "question": "What is the term for a group of geese?",
+    "answer": "Gaggle"
+  },
+  {
+    "question": "In which TV series would you find 'The Mother of Dragons'?",
+    "answer": "Game of Thrones"
+  },
+  {
+    "question": "ANAGRAM - US State - AIRFOIL CAN",
+    "answer": "CALIFORNIA"
+  },
+  {
+    "question": "ANAGRAM - US State - DO FLAIR",
+    "answer": "FLORIDA"
+  },
+  {
+    "question": "Which sign of the zodiac is represented by the Twins?",
+    "answer": "Gemini"
+  },
+  {
+    "question": "What is the name of Peppa Pig's younger brother?",
+    "answer": "George"
+  },
+  {
+    "question": "ANAGRAM - US State - TANKARD HOOT",
+    "answer": "NORTH DAKOTA"
+  },
+  {
+    "question": "ANAGRAM - US State - IRE AGOG",
+    "answer": "GEORGIA"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Which 80s classic got a reboot in 2016 with an all-female cast including Kristen Wiig and Melissa McCarthy?",
+    "answer": "Ghostbusters"
+  },
+  {
+    "question": "Which city in Egypt is known for its pyramids and Sphinx?",
+    "answer": "Giza"
+  },
+  {
+    "question": "ANAGRAM - US State - ANT MOAN",
+    "answer": "MONTANA"
+  },
+  {
+    "question": "Which desert is not in Africa: Kalahari, Gobi, or Sahara?",
+    "answer": "Gobi"
+  },
+  {
+    "question": "What is United Kingdom’s national Anthem?",
+    "answer": "God Save the King"
+  },
+  {
+    "question": "When an Olympic athlete wins first place, what color medal do they get?",
+    "answer": "Gold"
+  },
+  {
+    "question": "Who is Kate Hudson's famous mother?",
+    "answer": "Goldie Hawn"
+  },
+  {
+    "question": "What is the highest-grossing film of all time (adjusted for inflation)?",
+    "answer": "Gone with the Wind"
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "answer": "Google"
+  },
+  {
+    "question": "Batman protects which city?",
+    "answer": "Gotham"
+  },
+  {
+    "question": "Approximately two miles in length, what is the name of the main canal in Venice?",
+    "answer": "Grand Canal"
+  },
+  {
+    "question": "What fruit do raisins come from?",
+    "answer": "Grapes"
+  },
+  {
+    "question": "What force keeps us grounded on Earth?",
+    "answer": "Gravity"
+  },
+  {
+    "question": "ANAGRAM - US State - EAR BANKS",
+    "answer": "NEBRASKA"
+  },
+  {
+    "question": "Albania, Bulgaria, North Macedonia, and Turkey are the four nations that border which country?",
+    "answer": "Greece"
+  },
+  {
+    "question": "What color does copper turn when exposed to air or moisture?",
+    "answer": "Green"
+  },
+  {
+    "question": "What three colours make up the flag of Italy?",
+    "answer": "Green, white and red (in order)"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which country is colder: Greenland or Iceland?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "What’s the name of the film most associated with the date February 2?",
+    "answer": "Groundhog Day"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  },
+  {
+    "question": "ANAGRAM - US State - COAUTHOR SLAIN",
+    "answer": "SOUTH CAROLINA"
+  },
+  {
+    "question": "Which holiday do we celebrate by dressing up scarily?",
+    "answer": "Halloween"
+  },
+  {
+    "question": "In soccer, what body part can’t touch the ball?",
+    "answer": "Hands"
+  },
+  {
+    "question": "What type of beans are used to make baked beans?",
+    "answer": "Haricot beans"
+  },
+  {
+    "question": "Who wrote To Kill a Mockingbird?",
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the name of the final book in the Harry Potter series?",
+    "answer": "Harry Potter and the Deathly Hallows"
+  },
+  {
+    "question": "What is the first book in the Harry Potter series?",
+    "answer": "Harry Potter and the Philosopher’s Stone"
+  },
+  {
+    "question": "In which American state is Waikiki Beach?",
+    "answer": "Hawaii"
+  },
+  {
+    "question": "Where is the largest volcano on Earth located?",
+    "answer": "Hawaii (Mauna Loa)"
+  },
+  {
+    "question": "What is the name of the fictional town where the series Stranger Things is set?",
+    "answer": "Hawkins"
+  },
+  {
+    "question": "What nut is in the middle of a Ferrero Rocher?",
+    "answer": "Hazelnut"
+  },
+  {
+    "question": "What is the name of the organ that pumps blood around the body?",
+    "answer": "Heart"
+  },
+  {
+    "question": "Who portrayed the Joker in the 2008 film \"The Dark Knight\"?",
+    "answer": "Heath Ledger"
+  },
+  {
+    "question": "What is the busiest airport in America called?",
+    "answer": "Hartsfield–Jackson Atlanta International Airport"
+  },
+  {
+    "question": "What sort of animal is the video game character Sonic?",
+    "answer": "Hedgehog"
+  },
+  {
+    "question": "What is the name of Harry Potter’s pet owl?",
+    "answer": "Hedwig"
+  },
+  {
+    "question": "ANAGRAM - US PRESIDENTS - MY METRIC JAR",
+    "answer": "JIMMY CARTER"
+  },
+  {
+    "question": "Which chemical element is often used to fill balloons?",
+    "answer": "Helium"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "answer": "Helsinki"
+  },
+  {
+    "question": "ANAGRAM - US PRESIDENTS -EGG SOON WREATHING",
+    "answer": "GEORGE WASHINGTON"
+  },
+  {
+    "question": "ANAGRAM - US PRESIDENTS - JOHNS MATES OFFER",
+    "answer": "THOMAS JEFFERSON"
+  },
+  {
+    "question": "What is the term for animals that only eat plants?",
+    "answer": "Herbivores"
+  },
+  {
+    "question": "The Fosbury Flop is a technique used in which sport?",
+    "answer": "High Jump"
+  },
+  {
+    "question": "Which mountain range contains Mount Everest?",
+    "answer": "Himalayas"
+  },
+  {
+    "question": "Which mammal is known to have the most powerful bite in the world?",
+    "answer": "Hippopotamus"
+  },
+  {
+    "question": "Which animal name means river horse?",
+    "answer": "Hippopotamus"
+  },
+  {
+    "question": "What was the name of the magical school that Harry Potter attended?",
+    "answer": "Hogwarts"
+  },
+  {
+    "question": "What is the name of the train that takes Harry Potter to the wizard’s school?",
+    "answer": "Hogwarts Express"
+  },
+  {
+    "question": "ANAGRAM - US PRESIDENTS - TOE TOOLERS HOVERED",
+    "answer": "THEODORE ROOSEVELT"
+  },
+  {
+    "question": "ANAGRAM - US PRESIDENTS - A CHORAL BALM INN",
+    "answer": "ABRAHAM LINCOLN"
+  },
+  {
+    "question": "What is the name Bart Simpson's dad?",
+    "answer": "Homer"
+  },
+  {
+    "question": "What is the sweet food made by bees?",
+    "answer": "Honey"
+  },
+  {
+    "question": "What is the only food that does not spoil?",
+    "answer": "Honey"
+  },
+  {
+    "question": "The classic 1877 novel “Black Beauty” is about what kind of animal?",
+    "answer": "Horse"
+  },
+  {
+    "question": "Which animal can be seen on the Porsche logo?",
+    "answer": "Horse"
+  },
+  {
+    "question": "What type of animal is Bullseye in the “Toy Story” films?",
+    "answer": "Horse"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - SHEEN HATTED WORKMANSHIP",
+    "answer": "THE SHAWSHANK REDEMPTION"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - DANK THIGH TREK",
+    "answer": "THE DARK KNIGHT"
+  },
+  {
+    "question": "Who played Wolverine in the X-Men movies?",
+    "answer": "Hugh Jackman"
+  },
+  {
+    "question": "Which superhero goes green when he gets angry?",
+    "answer": "Hulk"
+  },
+  {
+    "question": "What breed of dog are most commonly used by Inuits to pull their sledges?",
+    "answer": "Husky"
+  },
+  {
+    "question": "Which element has the atomic number 1 - Hydrogen, Helium or Oxygen?",
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the first element on the periodic table?",
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the main gas found in the Sun?",
+    "answer": "Hydrogen (75% hydrogen, 26.5% Helium)"
+  },
+  {
+    "question": "In Greek mythology, who flew too close to the sun?",
+    "answer": "Icarus"
+  },
+  {
+    "question": "In which sport do teams compete to win the Stanley Cup?",
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "Which European country is known as the Land of Fire and Ice?",
+    "answer": "Iceland"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - HE THAT FORGED",
+    "answer": "THE GODFATHER"
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "answer": "Inca"
+  },
+  {
+    "question": "In which country is the Taj Mahal located?",
+    "answer": "India"
+  },
+  {
+    "question": "What country has the largest population of tigers?",
+    "answer": "India"
+  },
+  {
+    "question": "What country has the largest population in the world?",
+    "answer": "India (1.47 billion)"
+  },
+  {
+    "question": "Which rhino has only one horn: The black, white, Sumatran or Indian rhino?",
+    "answer": "Indian"
+  },
+  {
+    "question": "What is the official currency of India?",
+    "answer": "Indian rupee"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - HIS DRILL SCENTS",
+    "answer": "SCHINDLER'S LIST"
+  },
+  {
+    "question": "Which MLS franchise team does David Beckham own?",
+    "answer": "Inter Miami"
+  },
+  {
+    "question": "What are animals without backbones called?",
+    "answer": "Invertebrates"
+  },
+  {
+    "question": "What country was formerly known as Persia until 1935?",
+    "answer": "Iran"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - LIP FUN TOPIC",
+    "answer": "PULP FICTION"
+  },
+  {
+    "question": "What do you call the colored part of the eye?",
+    "answer": "Iris"
+  },
+  {
+    "question": "What flower shares its name with a part of the eyeball?",
+    "answer": "Iris"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS -RUM PET FROGS",
+    "answer": "FORREST GUMP"
+  },
+  {
+    "question": "Who discovered gravity by observing a falling apple?",
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "ANAGRAM - FAMOUS FILMS - FLOGS A DOLE",
+    "answer": "GOODFELLAS"
+  },
+  {
+    "question": "Which intercontinental city is divided into two separate parts by the Bosphorus Strait, with half of the city in Europe and half in Asia?",
+    "answer": "Istanbul, Turkey"
+  },
+  {
+    "question": "Which country is famous for inventing pizza?",
+    "answer": "Italy"
+  },
+  {
+    "question": "Which European country is nicknamed “The Boot”?",
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the only letter that does not appear in the periodic table?",
+    "answer": "J"
+  },
+  {
+    "question": "Who wrote The Catcher in the Rye?",
+    "answer": "J. D. Salinger"
+  },
+  {
+    "question": "Who is the author of The Hobbit?",
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Who is the author of \"The Lord of the Rings\"?",
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "On which Caribbean island is the resort of Montego Bay?",
+    "answer": "Jamaica"
+  },
+  {
+    "question": "What is the name of the fictional British spy who likes his martinis “shaken, not stirred”?",
+    "answer": "James Bond"
+  },
+  {
+    "question": "ANAGRAM - EUROPEAN COUNTRIES - ROT A PLUG",
+    "answer": "PORTUGAL"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+  },
+  {
+    "question": "What country has the highest number of citizens over the age of 65?",
+    "answer": "Japan"
+  },
+  {
+    "question": "In which language does \"konnichiwa\" mean \"hello\"?",
+    "answer": "Japanese"
+  },
+  {
+    "question": "In which film would you hear the iconic line 'You're gonna need a bigger boat'?",
+    "answer": "Jaws"
+  },
+  {
+    "question": "Which aquatic creature has tentacles and a venomous sting?",
+    "answer": "Jellyfish"
+  },
+  {
+    "question": "Who was Brad Pitt's first wife?",
+    "answer": "Jennifer Aniston"
+  },
+  {
+    "question": "ANAGRAM - EUROPEAN COUNTRIES - STERN HANDLE",
+    "answer": "NETHERLANDS"
+  },
+  {
+    "question": "Who played the titular role in the 2020 movie Joker?",
+    "answer": "Joaquin Phoenix"
+  },
+  {
+    "question": "Which boxer was the first to defeat Muhammad Ali?",
+    "answer": "Joe Frazier"
+  },
+  {
+    "question": "What is the name of a baby kangaroo?",
+    "answer": "Joey"
+  },
+  {
+    "question": "Which actor played Jack Sparrow in the Pirates of the Caribbean movies?",
+    "answer": "Johnny Depp"
+  },
+  {
+    "question": "What is the name of the scientist who developed the polio vaccine?",
+    "answer": "Jonas Salk"
+  },
+  {
+    "question": "Which berry gives gin its distinctive flavour?",
+    "answer": "Juniper berries"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which planet has the shortest day?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who is the American artist known for hits like \"Can't Stop the Feeling!\" and \"SexyBack\"?",
+    "answer": "Justin Timberlake"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "answer": "K"
+  },
+  {
+    "question": "What is the second-highest mountain in the world?",
+    "answer": "K2 located between Pakistan and China"
+  },
+  {
+    "question": "Which animal is known for having a powerful kick and is native to Australia?",
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "Who portrayed the character of Rose Dewitt Bukater in \"Titanic\"?",
+    "answer": "Kate Winslet"
+  },
+  {
+    "question": "ANAGRAM - EUROPEAN COUNTRIES - EMIT UNKIND DOG",
+    "answer": "UNITED KINGDOM"
+  },
+  {
+    "question": "Which pop artist released the hit song ‘Firework’?",
+    "answer": "Katy Perry"
+  },
+  {
+    "question": "What is the only U.S. state that can be typed in using only one row of a standard keyboard?",
+    "answer": "Alaska"
+  },
+  {
+    "question": "Who was the first “American Idol” winner?",
+    "answer": "Kelly Clarkson"
+  },
+  {
+    "question": "What is a rhino's horn made of?",
+    "answer": "Keratin"
+  },
+  {
+    "question": "What is the name for a baby goat?",
+    "answer": "Kid"
+  },
+  {
+    "question": "The Orca is also known as what?",
+    "answer": "Killer whale"
+  },
+  {
+    "question": "Psalm, Saint, and Chicago are the names of what?",
+    "answer": "Kim Kardashian's children"
+  },
+  {
+    "question": "What is the name of the fermented cabbage dish that’s a staple in Korean cuisine?",
+    "answer": "Kimchi"
+  },
+  {
+    "question": "How many cards are in a standard deck of playing cards?",
+    "answer": "52"
+  },
+  {
+    "question": "In which part of your body would you find the cruciate ligament?",
+    "answer": "Knee"
+  },
+  {
+    "question": "Which bone are babies born without?",
+    "answer": "Knee cap"
+  },
+  {
+    "question": "What is the currency of Denmark?",
+    "answer": "Krone"
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "question": "Before Tokyo became the capital city of Japan, where was the capital located?",
+    "answer": "Kyoto"
+  },
+  {
+    "question": "What sport is played with a net on a stick?",
+    "answer": "Lacrosse"
+  },
+  {
+    "question": "What name is singer-actor Stefani Germanotta better known by?",
+    "answer": "Lady Gaga"
+  },
+  {
+    "question": "Is the Equator a line of latitude or of longitude?",
+    "answer": "Latitude"
+  },
+  {
+    "question": "What is the fiery liquid that flows from a volcano?",
+    "answer": "Lava"
+  },
+  {
+    "question": "Who was the youngest player to score 10,000 points in the NBA?",
+    "answer": "LeBron James"
+  },
+  {
+    "question": "What is the only planet in our solar system to rotate clockwise on its axis?",
+    "answer": "Venus"
+  },
+  {
+    "question": "Which star sign is represented by a Lion?",
+    "answer": "Leo"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who played the character of Jack Dawson in the movie \"Titanic\"?",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "question": "Relative to the internet, what does “URL” stand for?",
+    "answer": "Uniform resource locator"
+  },
+  {
+    "question": "Which sign of the Zodiac is represented by the Scales?",
+    "answer": "Libra"
+  },
+  {
+    "question": "What do you call the place where books are borrowed?",
+    "answer": "Library"
+  },
+  {
+    "question": "Which travels faster: Sound or light?",
+    "answer": "Light"
+  },
+  {
+    "question": "Diwali is also known as the festival of what?",
+    "answer": "Light"
+  },
+  {
+    "question": "Which comes first: thunder or lightning?",
+    "answer": "Lightning"
+  },
+  {
+    "question": "What unit is commonly used to measure distances between stars?",
+    "answer": "Light-years"
+  },
+  {
+    "question": "What are the names of Harry Potter’s parents?",
+    "answer": "Lily and James Potter"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "answer": "Lima"
+  },
+  {
+    "question": "What is the only species of cat that lives in groups?",
+    "answer": "Lion"
+  },
+  {
+    "question": "In miles, what is the distance from earth to the sun? a) 93 million miles b) 96 million miles or c) 99 million miles",
+    "answer": "a) 93 million miles"
+  },
+  {
+    "question": "Nala and Simba are what kind of animals?",
+    "answer": "Lions"
+  },
+  {
+    "question": "What is the currency of Turkey?",
+    "answer": "Lira"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "answer": "Lisbon"
+  },
+  {
+    "question": "Do scorpions produce live young or lay eggs?",
+    "answer": "Live young"
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "answer": "Liver"
+  },
+  {
+    "question": "By U.S. law, exit signs must be one of what two colors?",
+    "answer": "Green or red"
+  },
+  {
+    "question": "What kind of creature is a Komodo dragon?",
+    "answer": "Lizard"
+  },
+  {
+    "question": "Where will the 2028 Summer Olympics be held?",
+    "answer": "Los Angeles"
+  },
+  {
+    "question": "In Greek mythology, Eros was the god of what?",
+    "answer": "Love"
+  },
+  {
+    "question": "How many points does the Star of David have?",
+    "answer": "Six"
+  },
+  {
+    "question": "What famous German composer lost his hearing?",
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "What is Super Mario's brother called?",
+    "answer": "Luigi"
+  },
+  {
+    "question": "Who is the American singer known for hits like \"Like a Virgin\" and \"Vogue\"?",
+    "answer": "Madonna"
+  },
+  {
+    "question": "Who is Known as the Queen of Pop?",
+    "answer": "Madonna"
+  },
+  {
+    "question": "What is the capital city of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "question": "Which element has the chemical symbol Mg?",
+    "answer": "Magnesium"
+  },
+  {
+    "question": "Who said \"An eye for an eye makes the whole world blind\"?",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "Which is the only state with a one-syllable name?",
+    "answer": "Maine"
+  },
+  {
+    "question": "Which three zodiac signs are water signs?",
+    "answer": "Cancer, Pisces and Scorpio"
+  },
+  {
+    "question": "What animal is known by the nickname “sea cow?”",
+    "answer": "Manatee"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "answer": "Mandarin Chinese (by native speakers)"
+  },
+  {
+    "question": "What was the old name for a Snickers bar before it changed in 1990?",
+    "answer": "Marathon"
+  },
+  {
+    "question": "Which month of the year is National Ice Cream Month?",
+    "answer": "July"
+  },
+  {
+    "question": "What was Taylor Swift's first song to chart on the Billboard Hot 100?",
+    "answer": "“Tim McGraw”"
+  },
+  {
+    "question": "What singer has had a Billboard No. 1 hit in each of the last four decades?",
+    "answer": "Mariah Carey"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "question": "On which planet is Olympic Mons, the largest known volcano in the solar system?",
+    "answer": "Mars"
+  },
+  {
+    "question": "What Hong Kong-born actor and stuntman starred alongside Chris Tucker in the 1998 movie “Rush Hour”?",
+    "answer": "Jackie Chan"
+  },
+  {
+    "question": "Who wrote Frankenstein?",
+    "answer": "Mary Shelley"
+  },
+  {
+    "question": "Who created the TV series 'The Simpsons'?",
+    "answer": "Matthew Abraham Groening"
+  },
+  {
+    "question": "What is the name of the world’s largest active volcano?",
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Which civilization was older: the Maya or the Aztecs?",
+    "answer": "Maya"
+  },
+  {
+    "question": "What is the name of the sea located between Italy and Tunisia?",
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "question": "In the film “The Lion King”, what kind of animal is Timon?",
+    "answer": "Meerkat"
+  },
+  {
+    "question": "What 1997 movie features Will Smith and Tommy Lee Jones as undercover secret agents who police extraterrestrials?",
+    "answer": "Men in Black"
+  },
+  {
+    "question": "Which metal is a liquid at room temperature?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which is the hottest planet in our solar system?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the name of the process where a caterpillar turns into a butterfly?",
+    "answer": "Metamorphosis"
+  },
+  {
+    "question": "Enchiladas originated in which country?",
+    "answer": "Mexico"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "answer": "Mexico City"
+  },
+  {
+    "question": "Who is the American artist known for hits like \"Man in the Mirror\" and \"Thriller\"?",
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which athlete has won the most Olympic gold medals?",
+    "answer": "Michael Phelps (23 gold medals)"
+  },
+  {
+    "question": "Which artist painted the ceiling of the Sistine Chapel?",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "What cartoon character was the first to speak lines in a movie?",
+    "answer": "Mickey Mouse"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What is the name of Sully's best friend in Monsters Inc?",
+    "answer": "Mike Wazowski"
+  },
+  {
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "answer": "Milky Way Galaxy"
+  },
+  {
+    "question": "What video game has main characters named \"Alex\" and \"Steve\"?",
+    "answer": "Minecraft"
+  },
+  {
+    "question": "What is the name of the headteacher in Roald Dahl's Matilda?",
+    "answer": "Miss Trunchbull"
+  },
+  {
+    "question": "The song 'How Far I'll Go' features in which Disney film?",
+    "answer": "Moana"
+  },
+  {
+    "question": "Which USA State has the Union Jack on its flag?",
+    "answer": "Hawaii"
+  },
+  {
+    "question": "What flying insect is known for spreading malaria?",
+    "answer": "Mosquito"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the name of the highest mountain in Africa?",
+    "answer": "Mount Kilimanjaro"
+  },
+  {
+    "question": "In the film “Stuart Little”, what kind of animal is Stuart?",
+    "answer": "Mouse"
+  },
+  {
+    "question": "Portobello and Shiitake are types of what?",
+    "answer": "Mushroom"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "answer": "NaCl"
+  },
+  {
+    "question": "What is the capital city of Kenya?",
+    "answer": "Nairobi"
+  },
+  {
+    "question": "What is the name of the nanny played by Emma Thompson on film?",
+    "answer": "Nanny McPhee"
+  },
+  {
+    "question": "Which southern Italian city is usually credited as the birthplace of the pizza?",
+    "answer": "Naples"
+  },
+  {
+    "question": "What space agency is responsible for Mars rovers like Curiosity and Perseverance?",
+    "answer": "NASA"
+  },
+  {
+    "question": "Who was the first man to step on the moon?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "What famous man became president of his country after being in jail for 18 years?",
+    "answer": "Nelson Mandela"
+  },
+  {
+    "question": "What is the only flag that does not have four sides?",
+    "answer": "Nepal"
+  },
+  {
+    "question": "Which planet is known as the Windy Planet?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "Which country has appeared in three soccer World Cup finals, but never won the competition?",
+    "answer": "Netherlands (1974, 1978, 2010)"
+  },
+  {
+    "question": "Area 51 is located in which U.S. state?",
+    "answer": "Nevada"
+  },
+  {
+    "question": "What song is known as Rick Astley’s biggest hit?",
+    "answer": "Never Gonna Give You Up"
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Name two states that start with \"New.\"?",
+    "answer": "New Hampshire, New Jersey, New Mexico, New York"
+  },
+  {
+    "question": "In which U.S. state is Niagara Falls located?",
+    "answer": "New York"
+  },
+  {
+    "question": "What city is the Statue of Liberty located in?",
+    "answer": "New York City"
+  },
+  {
+    "question": "In which US city is Broadway located?",
+    "answer": "New York City"
+  },
+  {
+    "question": "What commonwealth nation is located furthest from the UK?",
+    "answer": "New Zealand"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the name of the waterfall located on the border of Canada and the United States?",
+    "answer": "Niagara Falls"
+  },
+  {
+    "question": "What colour is a New York City taxi?",
+    "answer": "Yellow"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "Nile River"
+  },
+  {
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which country has the longest coastline in Europe?",
+    "answer": "Norway"
+  },
+  {
+    "question": "Which country is famous for the fjords in its landscape?",
+    "answer": "Norway"
+  },
+  {
+    "question": "What language is spoken in Norway?",
+    "answer": "Norwegian"
+  },
+  {
+    "question": "Who has won the most tennis Grand Slam titles in the men’s category?",
+    "answer": "Novak Djokovic"
+  },
+  {
+    "question": "Which pop group released the song “Bye Bye Bye” in 2000?",
+    "answer": "NSYNC"
+  },
+  {
+    "question": "“It’s gonna be May” is a common misheard lyric from what band and song?",
+    "answer": "NSYNC's “It’s Gonna Be Me”"
+  },
+  {
+    "question": "What kind of tree do acorns come from?",
+    "answer": "Oak trees"
+  },
+  {
+    "question": "What is the state capital of Arizona?",
+    "answer": "Phoenix"
+  },
+  {
+    "question": "What's the name of the talking snowman in Disney's Frozen?",
+    "answer": "Olaf"
+  },
+  {
+    "question": "What is the state capital of Minnesota?",
+    "answer": "St. Paul"
+  },
+  {
+    "question": "What is the name of the home of the Greek Gods?",
+    "answer": "Olympus"
+  },
+  {
+    "question": "What is the only country to start with the letter O?",
+    "answer": "Oman"
+  },
+  {
+    "question": "How many times has England won the men's football World Cup?",
+    "answer": "Once"
+  },
+  {
+    "question": "What band was Harry Styles in before his solo career?",
+    "answer": "One Direction"
+  },
+  {
+    "question": "Which blood type is known as the universal donor?",
+    "answer": "O-negative"
+  },
+  {
+    "question": "Which fruit has the same name as its colour?",
+    "answer": "Orange"
+  },
+  {
+    "question": "On which type of flowers do vanilla pods grow?",
+    "answer": "Orchids"
+  },
+  {
+    "question": "The art of folding paper is known as what?",
+    "answer": "Origami"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "answer": "Oslo"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Which bird lays the largest eggs?",
+    "answer": "Ostrich"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What do you call a group of wolves?",
+    "answer": "Pack"
+  },
+  {
+    "question": "What’s the name of the fictional bear from Peru who loves marmalade sandwiches?",
+    "answer": "Paddington Bear"
+  },
+  {
+    "question": "What is the term for a word that is spelled the same backwards and forwards?",
+    "answer": "Palindrome"
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "answer": "Pancreas"
+  },
+  {
+    "question": "Where were the 2024 Olympics hosted?",
+    "answer": "Paris, France"
+  },
+  {
+    "question": "What cheese is served on caeser salad?",
+    "answer": "Parmensan"
+  },
+  {
+    "question": "Which bird is known for its colorful feathers and ability to mimic sounds?",
+    "answer": "Parrot"
+  },
+  {
+    "question": "What kind of food is penne?",
+    "answer": "Pasta"
+  },
+  {
+    "question": "What is the state capital of Maine?",
+    "answer": "Augusta"
+  },
+  {
+    "question": "What is the state capital of New Jersey?",
+    "answer": "Trenton"
+  },
+  {
+    "question": "Which bird is unable to fly?",
+    "answer": "Penguin (also ostrich, emu)"
+  },
+  {
+    "question": "What is the world's hottest chilli?",
+    "answer": "Pepper X"
+  },
+  {
+    "question": "In which country would you find Machu Picchu?",
+    "answer": "Peru"
+  },
+  {
+    "question": "What is the state capital of Alabama?",
+    "answer": "Montgomery"
+  },
+  {
+    "question": "What is the state capital of South Dakota?",
+    "answer": "Pierre"
+  },
+  {
+    "question": "Which Asian country is known as the “Land of a Thousand Islands”?",
+    "answer": "Philippines"
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What animal does pork come from?",
+    "answer": "Pig"
+  },
+  {
+    "question": "What type of nuts are traditionally used in pesto?",
+    "answer": "Pine nuts"
+  },
+  {
+    "question": "What is the name of the story about a wooden puppet who wants to become a real boy?",
+    "answer": "Pinocchio"
+  },
+  {
+    "question": "Which film features a ship called 'the black pearl'",
+    "answer": "Pirates of the Caribbean"
+  },
+  {
+    "question": "What does a botanist study?",
+    "answer": "Plants"
+  },
+  {
+    "question": "What word can mean either a storyline or a parcel of land?",
+    "answer": "Plot"
+  },
+  {
+    "question": "What bear can only be found in only cold, Arctic regions of the world?",
+    "answer": "Polar bear"
+  },
+  {
+    "question": "Which ancient Roman city was destroyed by a volcanic eruption in 79 CE?",
+    "answer": "Pompeii"
+  },
+  {
+    "question": "What is the primary ingredient in black pudding?",
+    "answer": "Pork blood"
+  },
+  {
+    "question": "From which country did Brazil gain its independence in 1822?",
+    "answer": "Portugal"
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "question": "In Greek mythology, who is the god of the sea?",
+    "answer": "Poseidon"
+  },
+  {
+    "question": "Which vegetable was the first to be grown in space?",
+    "answer": "Potato"
+  },
+  {
+    "question": "What does the term “pH” stand for in chemistry?",
+    "answer": "Potential of Hydrogen"
+  },
+  {
+    "question": "Which famous person was the teddy bear named after?",
+    "answer": "President Theodore (Teddy) Roosevelt"
+  },
+  {
+    "question": "Who is next in line to the British throne after King Charles III?",
+    "answer": "Prince William"
+  },
+  {
+    "question": "What does the letter P stand for in the political term; P.O.W.?",
+    "answer": "Prisoner (of War)"
+  },
+  {
+    "question": "What is the name of the fish that can inflate its body when threatened?",
+    "answer": "Pufferfish"
+  },
+  {
+    "question": "What is a baby seal called?",
+    "answer": "Pup"
+  },
+  {
+    "question": "What is the name of a baby dog?",
+    "answer": "Puppy"
+  },
+  {
+    "question": "Named after the mallow flower, mauve is a shade of what colour?",
+    "answer": "Purple"
+  },
+  {
+    "question": "What species of snake has varieties called green tree, reticulated, Indian and Burmese?",
+    "answer": "Python"
+  },
+  {
+    "question": "What is the longest snake in the world?",
+    "answer": "Python"
+  },
+  {
+    "question": "What is the only letter that doesn't appear in any U.S. state name?",
+    "answer": "Q"
+  },
+  {
+    "question": "Which iconic British rock band had the hit Don’t Stop Me Now?",
+    "answer": "Queen"
+  },
+  {
+    "question": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
+    "answer": "Queen Victoria"
+  },
+  {
+    "question": "What is the state capital of New Hampshire?",
+    "answer": "Concord"
+  },
+  {
+    "question": "Who directed Pulp Fiction?",
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "question": "What kind of animal is Bambi’s friend Thumper?",
+    "answer": "Rabbit"
+  },
+  {
+    "question": "What is the name of the fairy tale about a girl with long hair trapped in a tower?",
+    "answer": "Rapunzel"
+  },
+  {
+    "question": "What colour are most buses in London?",
+    "answer": "Red"
+  },
+  {
+    "question": "What colour is found on 75% of the world’s flags?",
+    "answer": "Red"
+  },
+  {
+    "question": "What colour are traditional British postboxes?",
+    "answer": "Red"
+  },
+  {
+    "question": "Which color is at the top of a rainbow?",
+    "answer": "Red"
+  },
+  {
+    "question": "What two colours make up the flag of Spain?",
+    "answer": "Red and Yellow"
+  },
+  {
+    "question": "In The Matrix, does Neo take the blue pill or the red pill?",
+    "answer": "Red pill"
+  },
+  {
+    "question": "What three colours make up the French flag?",
+    "answer": "Red, white and blue"
+  },
+  {
+    "question": "What are the colors of the Mexican flag?",
+    "answer": "Red, white, and green"
+  },
+  {
+    "question": "What type of music is Bob Marley associated with?",
+    "answer": "Reggae"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "answer": "Reykjavik"
+  },
+  {
+    "question": "What is the main ingredient in the Italian dish risotto?",
+    "answer": "Rice"
+  },
+  {
+    "question": "What is the primary ingredient in a traditional paella?",
+    "answer": "Rice"
+  },
+  {
+    "question": "What is the most widely eaten food worldwide?",
+    "answer": "Rice"
+  },
+  {
+    "question": "Who was the first U.S. President to resign from office?",
+    "answer": "Richard Nixon"
+  },
+  {
+    "question": "Which actor/comedian co-created and starred in the British sitcom 'The Office'?",
+    "answer": "Ricky Gervais"
+  },
+  {
+    "question": "Which singer’s real name is Robyn Fenty?",
+    "answer": "Rihanna"
+  },
+  {
+    "question": "What is the state capital of Colorado?",
+    "answer": "Denver"
+  },
+  {
+    "question": "What is the state capital of Illinois?",
+    "answer": "Springfield"
+  },
+  {
+    "question": "What is the capital city of Saudi Arabia?",
+    "answer": "Riyadh"
+  },
+  {
+    "question": "Who is Batman's sidekick?",
+    "answer": "Robin"
+  },
+  {
+    "question": "Which artist released the hit song “Blurred Lines” in 2013?",
+    "answer": "Robin Thicke"
+  },
+  {
+    "question": "Which actor played James Bond in the most movies?",
+    "answer": "Roger Moore"
+  },
+  {
+    "question": "Which empire was ruled by Julius Caesar?",
+    "answer": "Roman Empire"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "question": "In which city would you find the Colosseum?",
+    "answer": "Rome"
+  },
+  {
+    "question": "Who are Harry Potter's two best friends?",
+    "answer": "Ron Weasley and Hermione Granger"
+  },
+  {
+    "question": "What is David Schwimmer's character in Friends called?",
+    "answer": "Ross Geller"
+  },
+  {
+    "question": "What is the name of the fairy tale character who could spin straw into gold?",
+    "answer": "Rumpelstiltskin"
+  },
+  {
+    "question": "A triathlon is a race that combines which three events?",
+    "answer": "Running, Swimming and Cycling"
+  },
+  {
+    "question": "Which country is the largest in the world?",
+    "answer": "Russia"
+  },
+  {
+    "question": "What actor plays Ken in the 2023 blockbuster movie Barbie?",
+    "answer": "Ryan Gosling"
+  },
+  {
+    "question": "Which actor did Blake Lively marry in 2002?",
+    "answer": "Ryan Reynolds"
+  },
+  {
+    "question": "What is the state capital of Mississippi?",
+    "answer": "Jackson"
+  },
+  {
+    "question": "What is the name of Sabrina’s cat in “Sabrina the Teenage Witch”?",
+    "answer": "Salem"
+  },
+  {
+    "question": "Which artist is known for the painting The Persistence of Memory?",
+    "answer": "Salvador Dalí"
+  },
+  {
+    "question": "Which legendary surrealist artist is famous for painting melting clocks?",
+    "answer": "Salvador Dalí"
+  },
+  {
+    "question": "Which British singer-songwriter had a hit with \"Stay With Me\"?",
+    "answer": "Sam Smith"
+  },
+  {
+    "question": "What is the state capital of Kentucky?",
+    "answer": "Frankfort"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "answer": "Saturn (274)"
+  },
+  {
+    "question": "What is the state capital of Michigan?",
+    "answer": "Lansing"
+  },
+  {
+    "question": "Who is the villain in The Lion King?",
+    "answer": "Scar"
+  },
+  {
+    "question": "Which actress plays 'Black Widow' in the marvel films?",
+    "answer": "Scarlett Johnasson"
+  },
+  {
+    "question": "What is the state capital of Oklahoma?",
+    "answer": "Oklahoma City"
+  },
+  {
+    "question": "In what activity would a person wear self-contained underwater breathing apparatus?",
+    "answer": "Scuba Diving"
+  },
+  {
+    "question": "Which one of these is a mammal: a seahorse, sea lion, or a sea urchin?",
+    "answer": "Sea Lion"
+  },
+  {
+    "question": "In which species do males give birth to the young?",
+    "answer": "Seahorses"
+  },
+  {
+    "question": "What is rapper P Diddy's real name?",
+    "answer": "Sean Combs"
+  },
+  {
+    "question": "What is the main ingredient in Laverbread?",
+    "answer": "Seaweed"
+  },
+  {
+    "question": "Which river runs through Paris?",
+    "answer": "Seine"
+  },
+  {
+    "question": "What is the state capital of Florida?",
+    "answer": "Tallahassee"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "question": "Who has won more tennis Grand Slam titles, Venus Williams or Serena Williams?",
+    "answer": "Serena Williams"
+  },
+  {
+    "question": "What show is Elmo on?",
+    "answer": "Sesame Street"
+  },
+  {
+    "question": "How many books are there in the Harry Potter series?",
+    "answer": "Seven"
+  },
+  {
+    "question": "What is the state capital of Hawaii?",
+    "answer": "Honolulu"
+  },
+  {
+    "question": "What is the state capital of Oregan?",
+    "answer": "Salem"
+  },
+  {
+    "question": "Which animals milks is used un Roquefort cheese?",
+    "answer": "Sheep"
+  },
+  {
+    "question": "What is the state capital of Wisconsin?",
+    "answer": "Madison"
+  },
+  {
+    "question": "What is the state capital of Georgia?",
+    "answer": "Atlanta"
+  },
+  {
+    "question": "What animal’s heart is in its head?",
+    "answer": "Shrimp"
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "answer": "Sicily"
+  },
+  {
+    "question": "What was the first — and still only — horror movie to win the Oscar for Best Picture?",
+    "answer": "Silence of the Lambs"
+  },
+  {
+    "question": "Which fabric is made by worms?",
+    "answer": "Silk"
+  },
+  {
+    "question": "Which element has the chemical symbol Ag?",
+    "answer": "Silver"
+  },
+  {
+    "question": "At which venue is the British Grand Prix held?",
+    "answer": "Silverstone"
+  },
+  {
+    "question": "Who is the most decorated gymnast of all time, with 37 world and Olympic medals to her name?",
+    "answer": "Simone Biles"
+  },
+  {
+    "question": "What does the term “sudoku” mean in Japanese?",
+    "answer": "Single number"
+  },
+  {
+    "question": "Cristiano Ronaldo exclaims which word when celebrating a goal?",
+    "answer": "Siuuuuu!"
+  },
+  {
+    "question": "What is the state capital of New Mexico?",
+    "answer": "Santa Fe"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answer": "Skin"
+  },
+  {
+    "question": "Which fairy tale character slept for 100 years?",
+    "answer": "Sleeping Beauty"
+  },
+  {
+    "question": "What slow-moving jungle animal sleeps in trees?",
+    "answer": "Sloth"
+  },
+  {
+    "question": "Which 1991 hit song by Nirvana became an anthem for the grunge movement?",
+    "answer": "Smells Like Teen Spirit"
+  },
+  {
+    "question": "What was the first animated Disney movie ever made?",
+    "answer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "question": "What is the name of the phenomenon when the moon covers the sun?",
+    "answer": "Solar Eclipse"
+  },
+  {
+    "question": "Which country's rugby team is called The Springboks?",
+    "answer": "South Africa"
+  },
+  {
+    "question": "Of what African country was Nelson Mandela president?",
+    "answer": "South Africa"
+  },
+  {
+    "question": "What is the official currency of South Africa?",
+    "answer": "South African Rand"
+  },
+  {
+    "question": "Which continent is home to the Andes Mountains?",
+    "answer": "South America"
+  },
+  {
+    "question": "On which continent is the country of Brazil?",
+    "answer": "South America"
+  },
+  {
+    "question": "What is the main ingredient in tofu?",
+    "answer": "Soybeans"
+  },
+  {
+    "question": "Catalonia is a region of what country?",
+    "answer": "Spain"
+  },
+  {
+    "question": "What two countries make up the Iberian Peninsula?",
+    "answer": "Spain and Portugal"
+  },
+  {
+    "question": "What is the most widely spoken language in South America?",
+    "answer": "Spanish"
+  },
+  {
+    "question": "What word can precede bump, boat, limit, and trap?",
+    "answer": "Speed"
+  },
+  {
+    "question": "What is the state capital of Washington?",
+    "answer": "Olympia"
+  },
+  {
+    "question": "What is the state capital of Connecticut?",
+    "answer": "Hartford"
+  },
+  {
+    "question": "Which superhero can spin webs from his hands?",
+    "answer": "Spiderman"
+  },
+  {
+    "question": "What type of galaxy is the Milky Way?",
+    "answer": "Spiral galaxy"
+  },
+  {
+    "question": "Who lives in a pineapple under the sea",
+    "answer": "Spongebob Square Pants"
+  },
+  {
+    "question": "What are the four seasons of the year?",
+    "answer": "Spring, summer, autumn (fall) and winter"
+  },
+  {
+    "question": "Which marine animal is known for its ability to squirt ink as a defense mechanism?",
+    "answer": "Squid"
+  },
+  {
+    "question": "Which 2021 show has Netflix reported as its most-watched original series ever?",
+    "answer": "Squid Games"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "answer": "Stapes (Ear)"
+  },
+  {
+    "question": "Which movie series is the quote \"May the Force be with you\" from?",
+    "answer": "Star Wars"
+  },
+  {
+    "question": "What is the first name of Paul McCartney’s fashion designer daughter?",
+    "answer": "Stella"
+  },
+  {
+    "question": "Who directed Schindler’s List?",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "Which director made Jurassic Park, Jaws, and E.T.?",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "question": "What is the state capital of Nevada?",
+    "answer": "Carson City"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "answer": "Stockholm"
+  },
+  {
+    "question": "Which European capital city is built on 14 islands connected by over 50 bridges?",
+    "answer": "Stockholm, Sweden"
+  },
+  {
+    "question": "What bird is often associated with delivering babies in folklore?",
+    "answer": "Stork"
+  },
+  {
+    "question": "What is the state capital of Ohio?",
+    "answer": "Colombus"
+  },
+  {
+    "question": "Authentic caviar is obtained from which fish?",
+    "answer": "Sturgeon"
+  },
+  {
+    "question": "Which country has the most pyramids in the world?",
+    "answer": "Sudan"
+  },
+  {
+    "question": "What is the national sport of Japan?",
+    "answer": "Sumo wrestling"
+  },
+  {
+    "question": "What's the largest Scandinavian country?",
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which country has the most islands in the world?",
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which European country is famously neutral in its involvement with global affairs?",
+    "answer": "Switzerland"
+  },
+  {
+    "question": "Which country consumes the most chocolate per capita?",
+    "answer": "Switzerland"
+  },
+  {
+    "question": "What is the most populated city in Australia?",
+    "answer": "Sydney"
+  },
+  {
+    "question": "Where did the 2000 Summer Olympics take place?",
+    "answer": "Sydney"
+  },
+  {
+    "question": "What species of spider has varieties called Goliath and Cobalt Blue?",
+    "answer": "Tarantula"
+  },
+  {
+    "question": "What is the state capital of South Carolina?",
+    "answer": "Columbia"
+  },
+  {
+    "question": "In what US state is the city Nashville?",
+    "answer": "Tennessee"
+  },
+  {
+    "question": "What sport does Roger Federer play?",
+    "answer": "Tennis"
+  },
+  {
+    "question": "In which sport is the term “love” used to mean zero?",
+    "answer": "Tennis"
+  },
+  {
+    "question": "What sport is the subject of the documentary Love Means Zero?",
+    "answer": "Tennis"
+  },
+  {
+    "question": "Elon Musk is the CEO of which global automotive brand?",
+    "answer": "Tesla"
+  },
+  {
+    "question": "Can you name three U.S. states that have a coastline on the Gulf of Mexico?",
+    "answer": "Texas, Louisiana, Mississipi, Alabama and Florida"
+  },
+  {
+    "question": "From which country does the Massaman curry originate?",
+    "answer": "Thailand"
+  },
+  {
+    "question": "What is the name of the longest river in South America?",
+    "answer": "The Amazon"
+  },
+  {
+    "question": "What is the name of the largest rainforest in the world?",
+    "answer": "The Amazon Rainforest"
+  },
+  {
+    "question": "What is the world’s longest mountain range?",
+    "answer": "The Andes which are 7,000km long and traverse 7 countries"
+  },
+  {
+    "question": "In which ocean can you find the North Pole?",
+    "answer": "The Arctic Ocean"
+  },
+  {
+    "question": "What is the state capital of Pennsylvania?",
+    "answer": "Harrisburg"
+  },
+  {
+    "question": "According to Guinness World Records, what's the best-selling book of all time?",
+    "answer": "The Bible"
+  },
+  {
+    "question": "In human anatomy, what does the “hallux” refer to?",
+    "answer": "The Big Toe"
+  },
+  {
+    "question": "What's the biggest animal in the world?",
+    "answer": "The Blue Whale"
+  },
+  {
+    "question": "Dubbed the “Black Death,” what plague swept through Europe in the 1300s?",
+    "answer": "The Bubonic plague"
+  },
+  {
+    "question": "In Harry Potter, what is the name of The Weasley's house?",
+    "answer": "The Burrow"
+  },
+  {
+    "question": "Located between Israel and Jordan, this body of water is known for its high salt content, making it uninhabitable for most life forms",
+    "answer": "The Dead Sea"
+  },
+  {
+    "question": "What is the bottom number in a fraction called?",
+    "answer": "The Denominator"
+  },
+  {
+    "question": "Which group of ancient peoples worshiped cats?",
+    "answer": "The Egyptians"
+  },
+  {
+    "question": "What natural feature separates England and France?",
+    "answer": "The English Channel"
+  },
+  {
+    "question": "What is the name of the invisible line that divides the Earth into the Northern and Southern Hemispheres?",
+    "answer": "The Equator"
+  },
+  {
+    "question": "What is the centre of a hurricane called?",
+    "answer": "The Eye"
+  },
+  {
+    "question": "Which Tennis Grand Slam is played on a clay surface?",
+    "answer": "The French Open"
+  },
+  {
+    "question": "What is the tallest breed of dog in the world?",
+    "answer": "The Great Dane"
+  },
+  {
+    "question": "What is the state capital of West Virginia?",
+    "answer": "Charleston"
+  },
+  {
+    "question": "Which ancient wonder of the world was located in Egypt?",
+    "answer": "The Great Pyramid of Giza"
+  },
+  {
+    "question": "Which breed of dog is believed to be the fastest?",
+    "answer": "The Greyhound"
+  },
+  {
+    "question": "What is the state capital of Montana?",
+    "answer": "Helena"
+  },
+  {
+    "question": "What part of the brain controls memory?",
+    "answer": "The Hippocampus"
+  },
+  {
+    "question": "What is the state capital of Wyoming?",
+    "answer": "Cheyenne"
+  },
+  {
+    "question": "Where did Winnie the Pooh and his crew live, serving as the setting for their adventures with Christopher Robin?",
+    "answer": "The Hundred Acre Wood"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "answer": "The Leaf"
+  },
+  {
+    "question": "What is the silent letter in the word psychiatrist?",
+    "answer": "The letter P"
+  },
+  {
+    "question": "What is the highest-grossing Broadway show of all time?",
+    "answer": "The Lion King"
+  },
+  {
+    "question": "What is the state capital of Tennessee?",
+    "answer": "Nashville"
+  },
+  {
+    "question": "In which museum would you find the Mona Lisa?",
+    "answer": "The Louvre Museum, Paris"
+  },
+  {
+    "question": "Tiger Woods won his first major in over a decade at which 2019 tournament?",
+    "answer": "The Masters"
+  },
+  {
+    "question": "Which Shakespeare play features the character Shylock?",
+    "answer": "The Merchant of Venice"
+  },
+  {
+    "question": "What are the last names of the warring families in Romeo and Juliet?",
+    "answer": "The Montagues and Capulets"
+  },
+  {
+    "question": "What animal has killed the most humans?",
+    "answer": "The Mosquito"
+  },
+  {
+    "question": "What is the highest-grossing foreign-language film at the U.S. box office?",
+    "answer": "The Passion of the Christ"
+  },
+  {
+    "question": "Which musical was the longest running show on Broadway?",
+    "answer": "The Phantom of the Opera"
+  },
+  {
+    "question": "What country has competed the most times in the Summer Olympics yet hasn’t won a gold medal?",
+    "answer": "The Philippines"
+  },
+  {
+    "question": "What is the state capital of Utah?",
+    "answer": "Salt Lake City"
+  },
+  {
+    "question": "What is the name of the top-tier soccer league in England?",
+    "answer": "The Premier League"
+  },
+  {
+    "question": "Which piece in the game of chess has the most freedom to move?",
+    "answer": "The Queen"
+  },
+  {
+    "question": "What is the state capital of Arkansas?",
+    "answer": "Little Rock"
+  },
+  {
+    "question": "What is the state capital of Massachusetts?",
+    "answer": "Boston"
+  },
+  {
+    "question": "Which empire was ruled by Emperor Nero?",
+    "answer": "The Roman Empire"
+  },
+  {
+    "question": "Which desert covers much of northern Africa?",
+    "answer": "The Sahara Desert"
+  },
+  {
+    "question": "What is the loudest animal on Earth?",
+    "answer": "The Sperm whale"
+  },
+  {
+    "question": "What is the state capital of Texas?",
+    "answer": "Austin"
+  },
+  {
+    "question": "What is the official national anthem of the United States of America?",
+    "answer": "The Star Spangled Banner"
+  },
+  {
+    "question": "What is the name of the star that's closest to Earth?",
+    "answer": "The Sun"
+  },
+  {
+    "question": "In what one country will you find, from start to finish, the longest road?",
+    "answer": "The U.S. — Route 20 covers 3,365 miles."
+  },
+  {
+    "question": "What is the state capital of Virginia?",
+    "answer": "Richmond"
+  },
+  {
+    "question": "Which country won the first women’s World Cup?",
+    "answer": "The United States"
+  },
+  {
+    "question": "In what country would you find The White House?",
+    "answer": "The USA"
+  },
+  {
+    "question": "The American drama series The West Wing is mainly set in which U.S. building?",
+    "answer": "The White House"
+  },
+  {
+    "question": "What flagship menu item first put Burger King on the map in 1957?",
+    "answer": "The Whopper"
+  },
+  {
+    "question": "What is the state capital of New York?",
+    "answer": "Albany"
+  },
+  {
+    "question": "How many stripes are on the Star Spangled Banner?",
+    "answer": "Thirteen"
+  },
+  {
+    "question": "What is the state capital of Indiana?",
+    "answer": "Indianapolis"
+  },
+  {
+    "question": "Who invented the lightbulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who is credited with writing the Declaration of Independence?",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "What is the state capital of California?",
+    "answer": "Sacramento"
+  },
+  {
+    "question": "How many zeros are there in one thousand?",
+    "answer": "Three"
+  },
+  {
+    "question": "How many time zones does Australia have?",
+    "answer": "Three"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "answer": "Three"
+  },
+  {
+    "question": "What is the slowest animal on Earth?",
+    "answer": "Three-toed sloth"
+  },
+  {
+    "question": "What element is denoted by the chemical symbol Sn in the periodic table?",
+    "answer": "Tin"
+  },
+  {
+    "question": "What is the name of the fairy from Peter Pan?",
+    "answer": "Tinkerbell"
+  },
+  {
+    "question": "Which ship sank in 1912 after hitting an iceberg?",
+    "answer": "Titanic"
+  },
+  {
+    "question": "Which movie features the song My Heart Will Go On?",
+    "answer": "Titanic"
+  },
+  {
+    "question": "Which iconic 1990s girl group released the song “No Scrubs”?",
+    "answer": "TLC"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the world's most populated city?",
+    "answer": "Tokyo, Japan"
+  },
+  {
+    "question": "What food is red, round, and considered both a vegetable and fruit?",
+    "answer": "Tomato"
+  },
+  {
+    "question": "What is the state capital of Delaware?",
+    "answer": "Dover"
+  },
+  {
+    "question": "Which word can go before ache, brush and paste to make three other words?",
+    "answer": "Tooth"
+  },
+  {
+    "question": "What are the five senses?",
+    "answer": "Touch, sight, hearing, smell, and taste"
+  },
+  {
+    "question": "Which Pixar film soundtrack features the song “You’ve Got a Friend in Me”?",
+    "answer": "Toy Story"
+  },
+  {
+    "question": "What is the state capital of Alaska?",
+    "answer": "Juneau"
+  },
+  {
+    "question": "Humans share about 98% of their DNA with chimpanzees.True or False",
+    "answer": "True. Genetic studies show humans and chimps share roughly 98.8% of DNA."
+  },
+  {
+    "question": "Elvis Presley only ever performed outside the U.S. once. True or False",
+    "answer": "True. He performed in Canada in 1957 but never toured internationally beyond that."
+  },
+  {
+    "question": "All insects have six legs.True or False",
+    "answer": "TRUE. Insects are defined by having three body segments and six legs."
+  },
+  {
+    "question": "Netflix started as a DVD rental service. True or False",
+    "answer": "True. It launched in 1997 as a mail-based DVD rental company."
+  },
+  {
+    "question": "The Eiffel Tower was originally built as a temporary structure. True or False",
+    "answer": "True. It was intended to stand for 20 years after the 1889 World’s Fair."
+  },
+  {
+    "question": "Lightning is hotter than the surface of the sun. Tue or False",
+    "answer": "True. Lightning can reach temperatures over 30,000°C, hotter than the Sun’s surface."
+  },
+  {
+    "question": "Trees release oxygen only during the day. True or False",
+    "answer": "True. Photosynthesis requires sunlight, so oxygen release mostly happens during the day."
+  },
+  {
+    "question": "Humans have five senses. True or False",
+    "answer": "TRUE. Sight, hearing, taste, touch, and smell."
+  },
+  {
+    "question": "Sound cannot travel through a vacuum. True or False",
+    "answer": "True. Sound requires a medium like air or water to travel; it cannot move through a vacuum."
+  },
+  {
+    "question": "The Earth revolves around the Sun. True or False",
+    "answer": "TRUE. The Earth orbits the Sun once every 365.25 days."
+  },
+  {
+    "question": "What expensive food do pigs hunt for in the ground?",
+    "answer": "Truffle"
+  },
+  {
+    "question": "What flowers are associated with Amsterdam?",
+    "answer": "Tulips"
+  },
+  {
+    "question": "What is the northernmost country in Africa?",
+    "answer": "Tunisia"
+  },
+  {
+    "question": "What do you call it when a bowler makes three strikes in a row?",
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which Egyptian Pharaoh was known as \"the Boy King\"?",
+    "answer": "Tutankhamun (\"King Tut\")"
+  },
+  {
+    "question": "How many times has Andy Murray won Wimbledon playing singles?",
+    "answer": "Twice (2013 and 2016)"
+  },
+  {
+    "question": "Which country's flag is a yellow stripe on the bottom and a light blue stripe on the top?",
+    "answer": "Ukraine"
+  },
+  {
+    "question": "Which country has hosted the most Olympic games?",
+    "answer": "United States"
+  },
+  {
+    "question": "Which planet is known as the Ice Giant?",
+    "answer": "Uranus"
+  },
+  {
+    "question": "What country won the very first FIFA World Cup in 1930?",
+    "answer": "Uruguay"
+  },
+  {
+    "question": "Count Dracula and Edward Cullen are both what type of imaginary creature?",
+    "answer": "Vampire"
+  },
+  {
+    "question": "What three distinct flavors are usually use to make Neopolitan ice cream?",
+    "answer": "Vanilla, chocolate, and strawberry."
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which dinosaur name means \"fast thief:\" Velociraptor, Triceratops or Pterodactyl?",
+    "answer": "Velociraptor"
+  },
+  {
+    "question": "Angel Falls, the tallest waterfall in the world, is located in which country?",
+    "answer": "Venezuela"
+  },
+  {
+    "question": "At a restaurant, you’ll see deer meat on the menu under what name?",
+    "answer": "Venison"
+  },
+  {
+    "question": "Which planet is the hottest in the solar system?",
+    "answer": "Venus"
+  },
+  {
+    "question": "Which planet is known as the Earth’s Twin?",
+    "answer": "Venus"
+  },
+  {
+    "question": "Which planet has the longest day?",
+    "answer": "Venus (243 Earth days)"
+  },
+  {
+    "question": "What famous tennis star is named after a planet?",
+    "answer": "Venus Williams"
+  },
+  {
+    "question": "In a court of law, what name is given to the decision reached by a jury?",
+    "answer": "Verdict"
+  },
+  {
+    "question": "What's the only active volcano in mainland Europe?",
+    "answer": "Vesuvius"
+  },
+  {
+    "question": "Who is the author of \"Les Misérables\"?",
+    "answer": "Victor Hugo"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "answer": "Vienna"
+  },
+  {
+    "question": "What is the currency of Vietnam?",
+    "answer": "Vietnamese dong"
+  },
+  {
+    "question": "Who painted The Starry Night?",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Which artist cut off his own ear?",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "What is the main alcoholic ingredient in a Bloody Mary?",
+    "answer": "Vodka"
+  },
+  {
+    "question": "What is the name for a mountain that erupts with lava?",
+    "answer": "Volcano"
+  },
+  {
+    "question": "What is the name of the fictional African nation depicted in the Marvel movie Black Panther?",
+    "answer": "Wakanda"
+  },
+  {
+    "question": "What is the name of the main character on Breaking Bad?",
+    "answer": "Walter White"
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "answer": "Washington, D.C."
+  },
+  {
+    "question": "What is the state capital of North Dakota?",
+    "answer": "Bismarck"
+  },
+  {
+    "question": "Which of these countries was once a US territory: Brazil, Ghana, Philippines or Taiwan?",
+    "answer": "Philippines"
+  },
+  {
+    "question": "What is the capital city of New Zealand?",
+    "answer": "Wellington"
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "answer": "Whale shark"
+  },
+  {
+    "question": "Who wrote the play Hamlet?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Who wrote “Romeo and Juliet”?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which of these states is in the \"Bible Belt\": Massachusetts, Michigan, Mississippi or Montana?",
+    "answer": "Mississippi"
+  },
+  {
+    "question": "Vintners and sommeliers work with what beverage?",
+    "answer": "Wine"
+  },
+  {
+    "question": "What is the nick name of Las Vegas?",
+    "answer": "Sin City"
+  },
+  {
+    "question": "How do butterflies taste things?",
+    "answer": "With their feet"
+  },
+  {
+    "question": "What is the currency of South Korea?",
+    "answer": "Won"
+  },
+  {
+    "question": "What’s the name of the cowboy in Toy Story?",
+    "answer": "Woody"
+  },
+  {
+    "question": "Which war was fought between 1914-1918?",
+    "answer": "World War I"
+  },
+  {
+    "question": "What does \"www\" stand for in website addresses?",
+    "answer": "World Wide Web"
+  },
+  {
+    "question": "What does WWE stand for?",
+    "answer": "World Wrestling Entertainment"
+  },
+  {
+    "question": "In what city were the first infections of COVID-19 discovered?",
+    "answer": "Wuhan, China"
+  },
+  {
+    "question": "What is the least populated U.S. state?",
+    "answer": "Wyoming"
+  },
+  {
+    "question": "What colour are the minions?",
+    "answer": "Yellow"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Yen"
+  },
+  {
+    "question": "What is the main ingredient in tzatziki?",
+    "answer": "Yogurt"
+  },
+  {
+    "question": "What is the yellow part of an egg called?",
+    "answer": "Yolk"
+  },
+  {
+    "question": "Which animal is known for its distinctive black-and-white stripes?",
+    "answer": "Zebra"
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": "Zero"
+  },
+  {
+    "question": "How many bones do sharks have?",
+    "answer": "Zero!"
+  },
+  {
+    "question": "KFC opened in the UK before McDonalds - true or false?",
+    "answer": "False"
+  },
+  {
+    "question": "The capital of Australia is Sydney. True or False",
+    "answer": "False"
+  },
+  {
+    "question": "Doritos are produced by Frito-Lay - true or false?",
+    "answer": "True"
+  },
+  {
+    "question": "Taylor Swift grew up on a Christmas tree farm - true or false?",
+    "answer": "True"
+  },
+  {
+    "question": "True or false: Queen Elizabeth II was the longest reigning British Monarch?",
+    "answer": "True"
+  },
+  {
+    "question": "The human skeleton is made up of over 200 bones. True or False",
+    "answer": "True"
+  },
+  {
+    "question": "What is the capital city of Poland?",
+    "answer": "Warsaw"
+  },
+  {
+    "question": "What is the capital of Afghanistan",
+    "answer": "Kabul"
+  },
+  {
+    "question": "What does F.B.I (US body) stand for?",
+    "answer": "Federal Bureau or Investigation"
+  },
+  {
+    "question": "What does C.I.A (US body) stand for?",
+    "answer": "Central Intelligence Agency"
+  },
+  {
+    "question": "Which country is home to Machu Picchu?",
+    "answer": "Peru"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Lagos"
+  },
+  {
+    "question": "What is the capital of Morroco?",
+    "answer": "Rabat"
+  },
+  {
+    "question": "Which day is sometimes referred to as the day of rest?",
+    "answer": "Sunday"
+  }
+]
