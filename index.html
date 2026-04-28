@@ -1,221 +1,303 @@
 <!doctype html>
-
 <html lang="en">
-
 <head>
-
   <meta name="viewport" content="width=device-width,initial-scale=1">
-
-  <meta name="theme-color" content="#0f6cbd">
-
+  <meta name="theme-color" content="#ffd400">
   <title>QR Quiz</title>
 
   <style>
+    :root{
+      /* BRAND COLOURS — Magnet UC style */
+      --yellow: #ffd400;
+      --yellow-dark: #f4b800;
+      --black: #111111;
+      --blue: #1e5fd4;
+      --blue-dark: #1648a8;
+      --white: #ffffff;
 
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      --wood: #d4a25f;
+      --wood-dark: #b8833f;
 
-           max-width: 760px; margin: 24px auto; padding: 0 16px; }
+      --radius-lg: 18px;
+      --radius-md: 14px;
 
-    .card { border: 1px solid #e5e5e5; border-radius: 14px; padding: 18px; box-shadow: 0 1px 6px rgba(0,0,0,.04); }
+      --shadow-heavy: 0 18px 40px rgba(0,0,0,.35);
+      --shadow-light: 0 8px 18px rgba(0,0,0,.25);
 
-    h1 { font-size: 22px; margin: 0 0 12px; }
+      --font-head: Impact, Haettenschweiler, "Arial Black", "Franklin Gothic Condensed", sans-serif;
+      --font-body: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    }
 
-    #question { font-size: 20px; font-weight: 650; line-height: 1.3; }
+    * { box-sizing: border-box; }
 
-    #meta { margin-top: 10px; color: #666; font-size: 14px; }
+    body {
+      font-family: var(--font-body);
+      max-width: 860px;
+      margin: 24px auto;
+      padding: 0 16px;
+      color: var(--black);
+      min-height: 100vh;
 
-    #answerBox { margin-top: 14px; padding: 12px; border-radius: 12px;
+      /* Yellow burst background like the box */
+      background:
+        radial-gradient(900px 540px at 50% -10%, rgba(255,212,0,1) 0%, rgba(255,212,0,.0) 58%),
+        radial-gradient(700px 420px at 14% 20%, rgba(255,255,255,.28) 0%, rgba(255,255,255,0) 45%),
+        radial-gradient(820px 520px at 90% 18%, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 50%),
+        linear-gradient(180deg, #ffe35a, var(--yellow-dark));
+    }
 
-                 background: #f3f8ff; border: 1px solid #d9ebff; display: none; }
+    .card {
+      background: linear-gradient(180deg, var(--wood), var(--wood-dark));
+      border-radius: var(--radius-lg);
+      border: 4px solid var(--black);
+      padding: 18px;
+      box-shadow: var(--shadow-heavy);
+      position: relative;
+      overflow: hidden;
+    }
 
-    #answerLabel { font-weight: 650; margin-bottom: 6px; }
+    /* Subtle sparkles */
+    .card::before{
+      content:"";
+      position:absolute; inset:-20px;
+      background:
+        radial-gradient(circle at 18% 20%, rgba(255,255,255,.35) 0 2px, transparent 3px),
+        radial-gradient(circle at 62% 28%, rgba(255,255,255,.25) 0 2px, transparent 3px),
+        radial-gradient(circle at 78% 62%, rgba(255,255,255,.22) 0 2px, transparent 3px),
+        radial-gradient(circle at 32% 70%, rgba(255,255,255,.18) 0 2px, transparent 3px);
+      opacity: .65;
+      pointer-events:none;
+      mix-blend-mode: soft-light;
+    }
 
-    .btnRow { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 10px; }
+    /* Header row: mode badge + logo */
+    .topBar{
+      display:flex;
+      justify-content: space-between;
+      align-items:center;
+      gap: 12px;
+      position: relative;
+      z-index: 1;
+      margin-bottom: 8px;
+    }
 
-    button { padding: 10px 14px; border-radius: 12px; border: 1px solid #d0d0d0;
+    .modeTag{
+      display:inline-flex;
+      align-items:center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 3px solid var(--black);
+      background: var(--yellow);
+      box-shadow: var(--shadow-light);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: .3px;
+      font-size: 12px;
+      line-height: 1;
+      user-select: none;
+    }
 
-             background: #fafafa; font-size: 16px; }
+    /* ✅ EVAPURE PNG logo (BIGGER DISPLAY SIZE) */
+    .evapureLogo{
+      height: 56px;        /* ✅ change to 48px or 64px if you want */
+      width: auto;
+      display: block;
+      flex: 0 0 auto;
+    }
 
-    button.primary { background: #0f6cbd; color: white; border-color: #0f6cbd; }
+    h1 {
+      font-family: var(--font-head);
+      font-size: 28px;
+      margin: 0 0 10px;
+      text-transform: uppercase;
+      letter-spacing: .6px;
+      position: relative;
+      z-index: 1;
+    }
 
-    button:active { transform: translateY(1px); }
+    #question {
+      font-family: var(--font-head);
+      font-size: 28px;
+      line-height: 1.12;
+      margin-top: 6px;
+      text-transform: uppercase;
+      text-shadow: 2px 2px 0 rgba(0,0,0,.14);
+      position: relative;
+      z-index: 1;
+    }
 
-    .small { font-size: 13px; color: #666; margin-top: 14px; }
+    /* Meta area kept but unused (blank) */
+    #meta {
+      margin-top: 10px;
+      font-size: 13px;
+      font-weight: 700;
+      opacity: .85;
+      position: relative;
+      z-index: 1;
+      min-height: 0;
+    }
 
+    #answerBox {
+      margin-top: 14px;
+      padding: 14px;
+      border-radius: var(--radius-md);
+      background: linear-gradient(180deg, var(--blue), var(--blue-dark));
+      color: var(--white);
+      border: 3px solid var(--black);
+      box-shadow: var(--shadow-light);
+      display: none;
+      position: relative;
+      z-index: 1;
+    }
+
+    #answerLabel {
+      font-weight: 950;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      font-size: 12px;
+      opacity: .95;
+    }
+
+    #answer {
+      font-size: 20px;
+      font-weight: 800;
+    }
+
+    .btnRow {
+      margin-top: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      position: relative;
+      z-index: 1;
+    }
+
+    button {
+      padding: 12px 16px;
+      border-radius: 999px;
+      border: 3px solid var(--black);
+      background: var(--white);
+      font-size: 15px;
+      font-weight: 900;
+      text-transform: uppercase;
+      cursor: pointer;
+      box-shadow: var(--shadow-light);
+      transition: transform .06s ease, filter .15s ease;
+    }
+
+    button.primary {
+      background: linear-gradient(180deg, var(--blue), var(--blue-dark));
+      color: var(--white);
+    }
+
+    button:hover { filter: brightness(1.03); }
+    button:active { transform: translateY(2px); }
+
+    button:focus-visible{
+      outline: 4px solid rgba(30,95,212,.35);
+      outline-offset: 2px;
+    }
+
+    .small {
+      font-size: 13px;
+      margin-top: 14px;
+      font-weight: 700;
+      opacity: .9;
+      position: relative;
+      z-index: 1;
+    }
   </style>
-
 </head>
 
 <body>
-
   <div class="card">
+    <div class="topBar">
+      <div class="modeTag">Quiz Mode</div>
 
-    <h1>Quiz</h1>
+      <!-- ✅ Uses your actual PNG file (must be alongside index.html) -->
+      <img class="evapureLogo" src="./evapure-logo.png" alt="Evapure">
+    </div>
 
- 
 
     <div id="question">Loading…</div>
-
     <div id="meta"></div>
 
- 
-
     <div id="answerBox">
-
       <div id="answerLabel">Answer</div>
-
       <div id="answer"></div>
-
     </div>
-
- 
 
     <div class="btnRow">
-
       <button id="reveal" class="primary">Reveal answer</button>
-
       <button id="next">Next question</button>
-
       <button id="reshuffle">Reshuffle bank</button>
-
     </div>
-
- 
 
     <div class="small">
-
       Tip: “Next question” won’t repeat until the bank is exhausted (then reshuffle).
-
     </div>
-
   </div>
 
- 
+  <script>
+    let bank = [];
+    let pool = [];
+    let current = null;
 
-<script>
-
-  let bank = [];
-
-  let pool = [];
-
-  let current = null;
-
- 
-
-  async function loadBank() {
-
-    const res = await fetch('questions.json', { cache: "no-store" });
-
-    if (!res.ok) throw new Error("Could not load questions.json");
-
-    bank = await res.json();
-
-    if (!Array.isArray(bank) || bank.length === 0) throw new Error("Question bank is empty or invalid");
-
-    reshuffle();
-
-  }
-
- 
-
-  function shuffle(arr) {
-
-    for (let i = arr.length - 1; i > 0; i--) {
-
-      const j = Math.floor(Math.random() * (i + 1));
-
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-
+    async function loadBank() {
+      const res = await fetch('./questions.json', { cache: "no-store" });
+      if (!res.ok) throw new Error("Could not load questions.json");
+      bank = await res.json();
+      if (!Array.isArray(bank) || bank.length === 0) throw new Error("Question bank is empty or invalid");
+      reshuffle();
     }
 
-  }
-
- 
-
-  function reshuffle() {
-
-    pool = bank.slice();
-
-    shuffle(pool);
-
-    showNext();
-
-  }
-
- 
-
-  function showNext() {
-
-    document.getElementById('answerBox').style.display = 'none';
-
- 
-
-    if (pool.length === 0) {
-
-      document.getElementById('question').textContent = "No more questions. Tap “Reshuffle bank”.";
-
-      document.getElementById('meta').textContent = `Total questions in bank: ${bank.length}`;
-
-      current = null;
-
-      return;
-
+    function shuffle(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
     }
 
- 
-
-    current = pool.pop();
-
-    document.getElementById('question').textContent = current.question ?? "(Missing question text)";
-
-    document.getElementById('answer').textContent = current.answer ?? "(Missing answer text)";
-
-    document.getElementById('meta').textContent =
-
-      `Remaining in this run: ${pool.length} • Total in bank: ${bank.length}`;
-
-  }
-
- 
-
-  document.getElementById('reveal').addEventListener('click', () => {
-
-    if (!current) return;
-
-    document.getElementById('answerBox').style.display = 'block';
-
-  });
-
- 
-
-  document.getElementById('next').addEventListener('click', showNext);
-
-  document.getElementById('reshuffle').addEventListener('click', reshuffle);
-
- 
-
-  (async () => {
-
-    try {
-
-      await loadBank();
-
-    } catch (e) {
-
-      document.getElementById('question').textContent = "Couldn’t load the quiz bank.";
-
-      document.getElementById('meta').textContent = e.message;
-
-      console.error(e);
-
+    function reshuffle() {
+      pool = bank.slice();
+      shuffle(pool);
+      showNext();
     }
 
-  })();
+    function showNext() {
+      document.getElementById('answerBox').style.display = 'none';
+      document.getElementById('meta').textContent = ""; // ✅ no run/bank counters
 
-</script>
+      if (pool.length === 0) {
+        document.getElementById('question').textContent = "No more questions. Tap “Reshuffle bank”.";
+        current = null;
+        return;
+      }
 
+      current = pool.pop();
+      document.getElementById('question').textContent = current.question ?? "(Missing question text)";
+      document.getElementById('answer').textContent = current.answer ?? "(Missing answer text)";
+      // ✅ removed: Remaining in this run / Total in bank
+    }
+
+    document.getElementById('reveal').addEventListener('click', () => {
+      if (!current) return;
+      document.getElementById('answerBox').style.display = 'block';
+    });
+
+    document.getElementById('next').addEventListener('click', showNext);
+    document.getElementById('reshuffle').addEventListener('click', reshuffle);
+
+    (async () => {
+      try {
+        await loadBank();
+      } catch (e) {
+        document.getElementById('question').textContent = "Couldn’t load the quiz bank.";
+        document.getElementById('meta').textContent = e.message;
+        console.error(e);
+      }
+    })();
+  </script>
 </body>
-
 </html>
-
- 
